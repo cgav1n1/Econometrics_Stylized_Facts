@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1729161535.52628 "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" "assignment.pdf" "assignment" 1729161535.98758 0
-  "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" 1729161535.30854 718 3200cd15c0d08da23eb0210b2b24ee39 ""
+["pdflatex"] 1729167793.93323 "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" "assignment.pdf" "assignment" 1729167794.4875 0
+  "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" 1729167793.76458 836 0bf57cdf19f017ce0242bab790061718 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -50,8 +50,8 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1727701255.60896 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1727701170 8221428 87c15e001afbc09fae2e45eaf2f71cc6 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "assignment.aux" 1729161535.95035 563 a5989a2b7533167e2d502bff5607449a "pdflatex"
-  "assignment.tex" 1729161535.30854 718 3200cd15c0d08da23eb0210b2b24ee39 ""
+  "assignment.aux" 1729167794.44713 563 a5989a2b7533167e2d502bff5607449a "pdflatex"
+  "assignment.tex" 1729167793.76458 836 0bf57cdf19f017ce0242bab790061718 ""
   "table.tex" 1729160239.80436 1896 5072b7a64f9a8c9461a4a39bc2fd50f1 ""
   (generated)
   "assignment.aux"
