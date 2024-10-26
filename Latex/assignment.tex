@@ -18,23 +18,31 @@
 \author{PRAT Paul; GAVINI Charles; FOURNIER Justin; BLANC Mathieu}
 \date{\today}
 
-\maketitle
+\maketitle %showcase the title in the top of the page with the informations upper
 
-\tableofcontents
+\tableofcontents %creating a table of contens
 
+%first, introduction
 \section{Introduction}
 For the midterm assignment, we composed a group of 4 with Gavini Charles; Fournier Justin; Prat Paul and Blanc Mathieu. 
 This document contains all the results of our assignment, including tables, figures, and calculations. 
-It is composed by 2 parts, first, the preliminary with respect to the main
-\section{Results}
+It is composed by X parts, first, importing the good python libraries,
 
-Here are the results of the analysis.
-table : weekly ; monthly etc... and then all the tests stand deviation..
-If we want to surprise him, is to modify the table
+\section{Preliminary}
+
+First, importing the Nvidia stock with yfinance, then display the pandas table
+
 \subsection{Data Table}
-
+The data printed here, is the preview of the Nvidia stock extraction from yahoo fiannce:
 % LaTeX table from 'table.tex'
-\input{table.tex}  
+\begin{table}[h!]
+    \centering
+    \input{table.tex}  
+    \caption{Preview of Nvidia Stock Data from Yahoo Finance}
+    \label{tab:nvidia_stock_preview}
+\end{table}
+
+
 
 \subsection{Further Analysis}
 

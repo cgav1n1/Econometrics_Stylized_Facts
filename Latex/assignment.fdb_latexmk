@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1729939013.40588 "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" "assignment.pdf" "assignment" 1729939013.9581 0
-  "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" 1729939013.17054 2214 fa154523ab77a9cbe64ce72376aecbf6 ""
+["pdflatex"] 1729944715.73323 "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" "assignment.pdf" "assignment" 1729944716.22288 0
+  "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" 1729944641.02881 2342 f5393ab7e2778162fb0696dc1599ae65 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -62,11 +62,11 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1727701255.60896 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1727701170 8221428 87c15e001afbc09fae2e45eaf2f71cc6 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "assignment.aux" 1729939013.90979 787 562102157c2c31f36ac75e30c2120469 "pdflatex"
-  "assignment.tex" 1729939013.17054 2214 fa154523ab77a9cbe64ce72376aecbf6 ""
-  "assignment.toc" 1729939013.91039 311 7c96874d26c9c057c9344338aa7f8370 "pdflatex"
+  "assignment.aux" 1729944716.1775 667 c8e2fd65dea8fc53186d223012a50c70 "pdflatex"
+  "assignment.tex" 1729944641.02881 2342 f5393ab7e2778162fb0696dc1599ae65 ""
+  "assignment.toc" 1729944716.17801 315 87e75ec874e395a21d349d97d8bf968e "pdflatex"
   "code_appendix.tex" 1729938884.21485 426 70becea41cdcb4f8ccb500f9441a6ff9 ""
-  "table.tex" 1729160239.80436 1896 5072b7a64f9a8c9461a4a39bc2fd50f1 ""
+  "table.tex" 1729944714.61606 677 8a8abe20a02487d05383b4cd65a55e36 ""
   (generated)
   "assignment.aux"
   "assignment.log"
