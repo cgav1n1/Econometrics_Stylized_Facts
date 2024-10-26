@@ -6,6 +6,8 @@
 \usepackage[toc,page]{appendix}
 \usepackage{listings} % Listing package to add appendix
 \usepackage{xcolor}   % Custom colors
+\usepackage{graphicx}  % Required to include images
+
 
 % Defining colors for the python section
 \definecolor{codegreen}{rgb}{0,0.6,0}
@@ -44,9 +46,19 @@ The data printed here, is the preview of the Nvidia stock extraction from yahoo 
 
 
 
-\subsection{Further Analysis}
+\subsection{Checking the 25 year range condition}
 
-Additional content can go here.
+We have to check that the data is correctly displayed over a 25years range, hopefully, 
+the introduction from Nvidia is from january 1999, so it we should be able to find a 25 year range
+of data of the Nvidia stock. To check that we can compute a python code to count the gaps and visualize 
+the dates of gaps in order to see for any huge gap that would be problematic for analyzing data.
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=\textwidth]{Img/MissingDates(2010_to_2011).pdf}
+    \caption{Missing Dates in Full Date Range (2010 to 2011)}
+    \label{fig:missing_dates}
+\end{figure}
 
 \appendix
 
