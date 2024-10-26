@@ -1,8 +1,17 @@
 \documentclass{article}
-\usepackage{booktabs}  % This package is needed for nice tables
-\usepackage{graphicx}  % If you want to include images
-\usepackage{amsmath}   % For math symbols and equations
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage[a4paper, total={7in, 11in}]{geometry}
+\usepackage[toc,page]{appendix}
+\usepackage{listings} % Listing package to add appendix
+\usepackage{xcolor}   % Custom colors
 
+% Defining colors for the python section
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codeblue}{rgb}{0,0,0.8}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{codebackground}{rgb}{0.95,0.95,0.92}
 \begin{document}
 
 \title{Mid term Exam for Financial Econometrics with Python}
@@ -11,8 +20,12 @@
 
 \maketitle
 
+\tableofcontents
+
 \section{Introduction}
-This document contains all the results of our assignment, including tables, figures, and calculations.
+For the midterm assignment, we composed a group of 4 with Gavini Charles; Fournier Justin; Prat Paul and Blanc Mathieu. 
+This document contains all the results of our assignment, including tables, figures, and calculations. 
+It is composed by 2 parts, first, the preliminary with respect to the main
 \section{Results}
 
 Here are the results of the analysis.
@@ -26,5 +39,26 @@ If we want to surprise him, is to modify the table
 \subsection{Further Analysis}
 
 Additional content can go here.
+
+\appendix
+
+\lstset{
+    language=Python,
+    backgroundcolor=\color{codebackground},   % Background color
+    basicstyle=\ttfamily\footnotesize,        % Font and size
+    breaklines=true,                          % Automatic line breaking
+    frame=single,                             % Frame around code
+    numbers=left,                             % Line numbers on the left
+    numberstyle=\tiny\color{gray},            % Line number style
+    keywordstyle=\color{codeblue}\bfseries,   % Keyword color
+    commentstyle=\color{codegreen}\itshape,   % Comment color
+    stringstyle=\color{codepurple},           % String color
+    showstringspaces=false,                   % Hide string spaces
+    captionpos=b,                             % Caption position: bottom
+    tabsize=4                                 % Tab width
+}
+
+\input{code_appendix.tex}  % Include the code appendix
+
 
 \end{document}
