@@ -7,7 +7,18 @@
 \usepackage{listings} % Listing package to add appendix
 \usepackage{xcolor}   % Custom colors
 \usepackage{graphicx}  % Required to include images
+\usepackage{hyperref}% to put links
+\usepackage{float} %to place correctly pictures
 
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    urlcolor=blue,
+    citecolor=red,
+    linktoc=all,    % Links entire section titles in the ToC
+    linkcolor=black % Sets ToC links to black; other links remain as specified
+}
 
 % Defining colors for the python section
 \definecolor{codegreen}{rgb}{0,0.6,0}
@@ -28,10 +39,25 @@
 \section{Introduction}
 For the midterm assignment, we composed a group of 4 with Gavini Charles; Fournier Justin; Prat Paul and Blanc Mathieu. 
 This document contains all the results of our assignment, including tables, figures, and calculations. 
-It is composed by X parts, first, importing the good python libraries,
+It is composed by \arabic{section} parts, first, importing the good python libraries,
 
 \section{Preliminary}
+%Instructions
 
+
+%At the beginning of your answer to Question 1, indicate clearly:
+%- the name and the exact ticker of stock or index you are considering,
+%- the length of your sample (number of days, months, years),
+%- the initial and final dates of your sample, and
+%- the stock market and country in which the stock you selected is traded, or to which the stock index you selected refers to.
+%Using the time series you downloaded in PRELIMINARY STEP 1, compute the log-returns at daily, 
+%monthly, and annual frequencies and present a table of summary statistics of these three series of returns. 
+%The table should be similar to the one appearing in slide n. 91 of the set of slides titled 
+%``Lecture 1: Financial Returns: Description and Stylized Facts’’.
+\subsection{NVIDIA}
+
+The choosen stock is Nvidia, because it is higly related in the current actuality, and we are intrested by the last tech rleases.
+The ticker from yahoo finance is $"NVDA"$ on the Nasdaq stock exchange \href{https://finance.yahoo.com/quote/NVDA/.}{NVIDIA on Yahoo Finance}
 First, importing the Nvidia stock with yfinance, then display the pandas table
 
 \subsection{Data Table}
@@ -53,7 +79,7 @@ the introduction from Nvidia is from january 1999, so it we should be able to fi
 of data of the Nvidia stock. To check that we can compute a python code to count the gaps and visualize 
 the dates of gaps in order to see for any huge gap that would be problematic for analyzing data.
 
-\begin{figure}[h!]
+\begin{figure}[H]
     \centering
     \includegraphics[width=\textwidth]{Img/MissingDates(2010_to_2011).pdf}
     \caption{Missing Dates in Full Date Range (2010 to 2011)}
