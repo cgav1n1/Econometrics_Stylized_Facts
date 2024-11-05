@@ -56,20 +56,20 @@ then initialising variables to separate the differents datas (daily, monthly, ..
 %monthly, and annual frequencies and present a table of summary statistics of these three series of returns. 
 %The table should be similar to the one appearing in slide n. 91 of the set of slides titled 
 %``Lecture 1: Financial Returns: Description and Stylized Facts’’.
-\subsection{NVIDIA}
+\subsection{AMAZON}
 
-The choosen stock is Nvidia, because it is higly related in the current actuality, and we are intrested by the last tech rleases.
-The ticker from yahoo finance is $"NVDA"$ on the Nasdaq stock exchange \href{https://finance.yahoo.com/quote/NVDA/.}{NVIDIA on Yahoo Finance}
-First, importing the Nvidia stock with yfinance, then display the pandas table
+The choosen stock is Amazon, because it is higly related in the current actuality, and we are intrested by such a major company that Amazon has become with time
+The ticker from yahoo finance is $"AMZN"$ on the Nasdaq stock exchange \href{https://finance.yahoo.com/quote/AMZN/.}{AMAZON on Yahoo Finance}
+First, importing the Amazon stock with yfinance, then display the pandas table
 
 \subsection{Data Table}
-The data printed here, is the preview of the Nvidia stock extraction from yahoo fiannce:
+The data printed here, is the preview of the Amazon stock extraction from yahoo fiannce:
 % LaTeX table from 'table.tex'
 \begin{table}[h!]
     \centering
     \input{table.tex}  
-    \caption{Preview of Nvidia Stock Data from Yahoo Finance}
-    \label{tab:nvidia_stock_preview}
+    \caption{Preview of Amazon Stock Data from Yahoo Finance}
+    \label{tab:amazon_stock_preview}
 \end{table}
 
 
@@ -77,8 +77,8 @@ The data printed here, is the preview of the Nvidia stock extraction from yahoo 
 \subsection{Checking the 25 year range condition}
 
 We have to check that the data is correctly displayed over a 25years range, hopefully, 
-the introduction from Nvidia is from january 1999, so it we should be able to find a 25 year range
-of data of the Nvidia stock. To check that we can compute a python code to count the gaps and visualize 
+the introduction from Amazon is from january 1999, so it we should be able to find a 25 year range
+of data of the Amazon stock. To check that we can compute a python code to count the gaps and visualize 
 the dates of gaps in order to see for any huge gap that would be problematic for analyzing data.
 
 \begin{figure}[H]
