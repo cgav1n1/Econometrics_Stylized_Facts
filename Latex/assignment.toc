@@ -3,4 +3,7 @@
 \contentsline {subsection}{\numberline {2.1}NVIDIA}{1}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Data Table}{1}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Checking the 25 year range condition}{1}{subsection.2.3}%
-\contentsline {section}{\numberline {A}Appendix: Python Code}{2}{appendix.A}%
+\contentsline {subsection}{\numberline {2.4}Prices evolutions}{2}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Calculating returns}{2}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Squared returns}{3}{subsection.2.6}%
+\contentsline {section}{\numberline {A}Appendix: Python Code}{3}{appendix.A}%

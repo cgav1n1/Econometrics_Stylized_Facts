@@ -40,6 +40,8 @@
 For the midterm assignment, we composed a group of 4 with Gavini Charles; Fournier Justin; Prat Paul and Blanc Mathieu. 
 This document contains all the results of our assignment, including tables, figures, and calculations. 
 It is composed by \arabic{section} parts, first, importing the good python libraries,
+then initialising variables to separate the differents datas (daily, monthly, ..., returns, logreturns,...)
+
 
 \section{Preliminary}
 %Instructions
@@ -84,6 +86,35 @@ the dates of gaps in order to see for any huge gap that would be problematic for
     \includegraphics[width=\textwidth]{Img/MissingDates(2010_to_2011).pdf}
     \caption{Missing Dates in Full Date Range (2010 to 2011)}
     \label{fig:missing_dates}
+\end{figure}
+
+\subsection{Prices evolutions}
+
+Then, ploting the prices evolution:
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\textwidth]{Img/prices_time.pdf}
+    \caption{Prices over time by frequency}
+    \label{fig:prices_time}
+\end{figure}
+
+\subsection{Calculating returns}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\textwidth]{Img/log_returns.pdf}
+    \caption{Prices, returns and log returns}
+    \label{fig:log_returns}
+\end{figure}
+
+\subsection{Squared returns}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\textwidth]{Img/squared_log_returns.pdf}
+    \caption{Squared daily returns and daily log returns}
+    \label{fig:squared_logreturns}
 \end{figure}
 
 \appendix

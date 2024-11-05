@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1730063055.61496 "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" "assignment.pdf" "assignment" 1730063056.2634 0
-  "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" 1729975531.73046 4527 355570498cc95cbe55b0f4143447bf0d ""
+["pdflatex"] 1730796854.40789 "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" "assignment.pdf" "assignment" 1730796855.52694 0
+  "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" 1730796853.00402 5337 3115ba563ba77e1f3dbb2a928ddbde3d ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -92,13 +92,16 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1727701255.60896 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1727701170 8221428 87c15e001afbc09fae2e45eaf2f71cc6 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "Img/MissingDates(2010_to_2011).pdf" 1730063045.61712 12032 d85d7eff2220b878041cb547aebe8b87 ""
-  "assignment.aux" 1730063056.20107 1514 d8872b32a659326a65bf9ef00c55e7c5 "pdflatex"
-  "assignment.out" 1730063056.20158 805 3c5106cd3504e79f9cb9285ed6df3975 "pdflatex"
-  "assignment.tex" 1729975531.73046 4527 355570498cc95cbe55b0f4143447bf0d ""
-  "assignment.toc" 1730063056.20183 463 e8bc4590d6a247b729d9d96b6df95b4e "pdflatex"
-  "code_appendix.tex" 1730063045.7773 445 73e19eed10d522d37ad603925e9997f3 ""
-  "table.tex" 1730063045.27956 684 97879a5c7785a7238df95d3a1c30dfe7 ""
+  "Img/MissingDates(2010_to_2011).pdf" 1730733077.32476 12032 791b7b2ddbcf37332acfcd6669568fb8 ""
+  "Img/log_returns.pdf" 1730734168.62691 105216 e2bcc5993d26dbb8f765ca41c164807d ""
+  "Img/prices_time.pdf" 1730734149.62861 36476 defe2ad9461875366183837a97838953 ""
+  "Img/squared_log_returns.pdf" 1730734526.96663 86045 1e87d62c8b22a911738850a099b1ba15 ""
+  "assignment.aux" 1730796855.42635 2579 290c0a6ece27cf17396d0bf890da5c65 "pdflatex"
+  "assignment.out" 1730796855.42883 1240 5b793b8b80a17785b2e053ebd6cda26d "pdflatex"
+  "assignment.tex" 1730796853.00402 5337 3115ba563ba77e1f3dbb2a928ddbde3d ""
+  "assignment.toc" 1730796855.42968 712 88e2e815a0867b24da101ec4e3330c31 "pdflatex"
+  "code_appendix.tex" 1730733079.3022 445 73e19eed10d522d37ad603925e9997f3 ""
+  "table.tex" 1730733076.59943 684 97879a5c7785a7238df95d3a1c30dfe7 ""
   (generated)
   "assignment.aux"
   "assignment.log"
