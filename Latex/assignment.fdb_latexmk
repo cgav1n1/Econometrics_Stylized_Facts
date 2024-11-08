@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1730796854.40789 "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" "assignment.pdf" "assignment" 1730796855.52694 0
-  "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" 1730796853.00402 5337 3115ba563ba77e1f3dbb2a928ddbde3d ""
+["pdflatex"] 1731067945.20897 "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" "assignment.pdf" "assignment" 1731067945.79196 0
+  "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" 1730809603.36982 5368 496f567e69b871cdf7967b9c8e42ab55 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -94,12 +94,12 @@
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
   "Img/MissingDates(2010_to_2011).pdf" 1730733077.32476 12032 791b7b2ddbcf37332acfcd6669568fb8 ""
   "Img/log_returns.pdf" 1730734168.62691 105216 e2bcc5993d26dbb8f765ca41c164807d ""
-  "Img/prices_time.pdf" 1730734149.62861 36476 defe2ad9461875366183837a97838953 ""
+  "Img/prices_time.pdf" 1730809599.06757 36476 defe2ad9461875366183837a97838953 ""
   "Img/squared_log_returns.pdf" 1730734526.96663 86045 1e87d62c8b22a911738850a099b1ba15 ""
-  "assignment.aux" 1730796855.42635 2579 290c0a6ece27cf17396d0bf890da5c65 "pdflatex"
-  "assignment.out" 1730796855.42883 1240 5b793b8b80a17785b2e053ebd6cda26d "pdflatex"
-  "assignment.tex" 1730796853.00402 5337 3115ba563ba77e1f3dbb2a928ddbde3d ""
-  "assignment.toc" 1730796855.42968 712 88e2e815a0867b24da101ec4e3330c31 "pdflatex"
+  "assignment.aux" 1731067945.73643 2579 d3e430c829b3d805e9564f2b63c54815 "pdflatex"
+  "assignment.out" 1731067945.73715 1240 48f913973291af5728a57210621780c1 "pdflatex"
+  "assignment.tex" 1730809603.36982 5368 496f567e69b871cdf7967b9c8e42ab55 ""
+  "assignment.toc" 1731067945.73734 712 83188b40ba724e6fbbbd3c519c7deb2e "pdflatex"
   "code_appendix.tex" 1730733079.3022 445 73e19eed10d522d37ad603925e9997f3 ""
   "table.tex" 1730733076.59943 684 97879a5c7785a7238df95d3a1c30dfe7 ""
   (generated)
