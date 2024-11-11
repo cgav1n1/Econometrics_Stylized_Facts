@@ -9,4 +9,5 @@
 \contentsline {subsection}{\numberline {3.3}Squared Returns}{3}{subsection.3.3}%
 \contentsline {section}{\numberline {4}Amazon and the 8 Stylized Facts}{3}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Prices are non-stationary}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Returns are stationary}{4}{subsection.4.2}%
 \contentsline {section}{\numberline {A}Appendix: Python Code}{4}{appendix.A}%
