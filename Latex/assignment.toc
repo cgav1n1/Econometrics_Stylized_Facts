@@ -2,10 +2,10 @@
 \contentsline {section}{\numberline {2}Preliminary}{1}{section.2}%
 \contentsline {subsection}{\numberline {2.1}AMAZON}{1}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Data Table}{1}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Checking the 25 Years range condition}{1}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.3}Checking the 25 Years range condition}{2}{subsection.2.3}%
 \contentsline {section}{\numberline {3}First Results}{2}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Prices Evolutions}{2}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Calculating Returns}{2}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.2}Calculating Returns}{3}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}Squared Returns}{3}{subsection.3.3}%
 \contentsline {section}{\numberline {4}Amazon and the 8 Stylized Facts}{3}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Prices are non-stationary}{3}{subsection.4.1}%

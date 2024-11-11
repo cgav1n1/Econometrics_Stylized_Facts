@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.11)  11 NOV 2024 03:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.11)  11 NOV 2024 03:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -460,62 +460,65 @@ Package hyperref Info: Link coloring ON on input line 28.
 \tf@toc=\write4
 \openout4 = `assignment.toc'.
 
- (table.tex)
-<Img/MissingDates(2010_to_2011).pdf, id=36, 574.54652pt x 198.18912pt>
-File: Img/MissingDates(2010_to_2011).pdf Graphic file (type pdf)
-<use Img/MissingDates(2010_to_2011).pdf>
-Package pdftex.def Info: Img/MissingDates(2010_to_2011).pdf  used on input line
- 87.
-(pdftex.def)             Requested size: 505.89pt x 174.50977pt.
- [1
+ (table.tex) [1
 
 {C:/Users/33688/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
  been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.91 
+l.84 
      ]
-<Img/prices_time.pdf, id=49, 1076.91151pt x 352.0431pt>
+<Img/MissingDates(2010_to_2011).pdf, id=89, 574.54652pt x 198.18912pt>
+File: Img/MissingDates(2010_to_2011).pdf Graphic file (type pdf)
+<use Img/MissingDates(2010_to_2011).pdf>
+Package pdftex.def Info: Img/MissingDates(2010_to_2011).pdf  used on input line
+ 87.
+(pdftex.def)             Requested size: 505.89pt x 174.50977pt.
+<Img/prices_time.pdf, id=90, 1076.91151pt x 352.0431pt>
 File: Img/prices_time.pdf Graphic file (type pdf)
 <use Img/prices_time.pdf>
 Package pdftex.def Info: Img/prices_time.pdf  used on input line 102.
 (pdftex.def)             Requested size: 505.89pt x 165.37433pt.
-<Img/log_returns.pdf, id=50, 1076.91151pt x 280.20673pt>
+<Img/log_returns.pdf, id=91, 1076.91151pt x 280.20673pt>
 File: Img/log_returns.pdf Graphic file (type pdf)
 <use Img/log_returns.pdf>
 Package pdftex.def Info: Img/log_returns.pdf  used on input line 111.
 (pdftex.def)             Requested size: 505.89pt x 131.62877pt.
-<Img/squared_log_returns.pdf, id=51, 715.50185pt x 279.69283pt>
-File: Img/squared_log_returns.pdf Graphic file (type pdf)
-<use Img/squared_log_returns.pdf>
-Package pdftex.def Info: Img/squared_log_returns.pdf  used on input line 120.
-(pdftex.def)             Requested size: 505.89pt x 197.75107pt.
  [2
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.124 
+l.115 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.124 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) ha
-s been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.124 
-       <./Img/MissingDates(2010_to_2011).pdf> <./Img/prices_time.pdf> <./Img/lo
-g_returns.pdf>]
-<Img/LogptVSLogpt-1.pdf, id=176, 611.41866pt x 396.19205pt>
+l.115 
+       <./Img/MissingDates(2010_to_2011).pdf> <./Img/prices_time.pdf>]
+<Img/squared_log_returns.pdf, id=173, 715.50185pt x 279.69283pt>
+File: Img/squared_log_returns.pdf Graphic file (type pdf)
+<use Img/squared_log_returns.pdf>
+Package pdftex.def Info: Img/squared_log_returns.pdf  used on input line 120.
+(pdftex.def)             Requested size: 505.89pt x 197.75107pt.
+<Img/LogptVSLogpt-1.pdf, id=174, 611.41866pt x 396.19205pt>
 File: Img/LogptVSLogpt-1.pdf Graphic file (type pdf)
 <use Img/LogptVSLogpt-1.pdf>
 Package pdftex.def Info: Img/LogptVSLogpt-1.pdf  used on input line 132.
 (pdftex.def)             Requested size: 404.71353pt x 262.24927pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Img/Autocorrelation.pdf, id=175, 611.26181pt x 393.98067pt>
+File: Img/Autocorrelation.pdf Graphic file (type pdf)
+<use Img/Autocorrelation.pdf>
+Package pdftex.def Info: Img/Autocorrelation.pdf  used on input line 142.
+(pdftex.def)             Requested size: 404.71353pt x 260.85162pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 (C:\Users\33688\AppData\Local\Programs\MiKTeX2\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2023/02/27 1.9 listings language file
@@ -524,20 +527,33 @@ Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 5.
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <8> not available
 (Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 7.
- [3
+) [3
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.168 \end{document}
+                    
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.16 mean,
-           std_dev = analyze_data(data)
+l.168 \end{document}
+                     <./Img/log_returns.pdf> <./Img/squared_log_returns.pdf>]
+[4
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.16 mean,
-           std_dev = analyze_data(data) <./Img/squared_log_returns.pdf> <./Img/
-LogptVSLogpt-1.pdf>]) [4] (assignment.aux)
+l.168 \end{document}
+                    
+pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) ha
+s been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.168 \end{document}
+                     <./Img/LogptVSLogpt-1.pdf> <./Img/Autocorrelation.pdf>]
+(assignment.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -546,41 +562,36 @@ L3 programming layer <2024-01-04>
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-
-Package rerunfilecheck Warning: File `assignment.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `assignment.out':
-(rerunfilecheck)             Before: D4F2FE930158C872E06F1B389C7A4F7C;1066
-(rerunfilecheck)             After:  06FD2FB91AC6486718F0DFCC64C9E3CA;1760.
+Package rerunfilecheck Info: File `assignment.out' has not changed.
+(rerunfilecheck)             Checksum: 06FD2FB91AC6486718F0DFCC64C9E3CA;1760.
  ) 
 Here is how much of TeX's memory you used:
- 12157 strings out of 474486
- 185876 string characters out of 5743285
- 1973542 words of memory out of 5000000
- 34265 multiletter control sequences out of 15000+600000
+ 12170 strings out of 474486
+ 186222 string characters out of 5743285
+ 2002542 words of memory out of 5000000
+ 34277 multiletter control sequences out of 15000+600000
  564315 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,79p,388b,2179s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,79p,388b,1365s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/33688/AppData/Local/Programs/MiKTeX2/fonts/type1/public/amsfonts/cm
-/cmbx12.pfb><C:/Users/33688/AppData/Local/Programs/MiKTeX2/fonts/type1/public/a
-msfonts/cm/cmbxti10.pfb><C:/Users/33688/AppData/Local/Programs/MiKTeX2/fonts/ty
-pe1/public/amsfonts/cm/cmitt10.pfb><C:/Users/33688/AppData/Local/Programs/MiKTe
-X2/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/33688/AppData/Local/Prog
-rams/MiKTeX2/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/33688/AppData/L
-ocal/Programs/MiKTeX2/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/33688/
-AppData/Local/Programs/MiKTeX2/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Use
-rs/33688/AppData/Local/Programs/MiKTeX2/fonts/type1/public/amsfonts/cm/cmr17.pf
-b><C:/Users/33688/AppData/Local/Programs/MiKTeX2/fonts/type1/public/amsfonts/cm
-/cmr5.pfb><C:/Users/33688/AppData/Local/Programs/MiKTeX2/fonts/type1/public/ams
-fonts/cm/cmr7.pfb><C:/Users/33688/AppData/Local/Programs/MiKTeX2/fonts/type1/pu
-blic/amsfonts/cm/cmsy10.pfb><C:/Users/33688/AppData/Local/Programs/MiKTeX2/font
-s/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/33688/AppData/Local/Programs/MiK
-TeX2/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on assignment.pdf (4 pages, 536565 bytes).
+/cmbx10.pfb><C:/Users/33688/AppData/Local/Programs/MiKTeX2/fonts/type1/public/a
+msfonts/cm/cmbx12.pfb><C:/Users/33688/AppData/Local/Programs/MiKTeX2/fonts/type
+1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/33688/AppData/Local/Programs/MiKTeX
+2/fonts/type1/public/amsfonts/cm/cmitt10.pfb><C:/Users/33688/AppData/Local/Prog
+rams/MiKTeX2/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/33688/AppData/
+Local/Programs/MiKTeX2/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/33688
+/AppData/Local/Programs/MiKTeX2/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Us
+ers/33688/AppData/Local/Programs/MiKTeX2/fonts/type1/public/amsfonts/cm/cmr12.p
+fb><C:/Users/33688/AppData/Local/Programs/MiKTeX2/fonts/type1/public/amsfonts/c
+m/cmr17.pfb><C:/Users/33688/AppData/Local/Programs/MiKTeX2/fonts/type1/public/a
+msfonts/cm/cmr5.pfb><C:/Users/33688/AppData/Local/Programs/MiKTeX2/fonts/type1/
+public/amsfonts/cm/cmr7.pfb><C:/Users/33688/AppData/Local/Programs/MiKTeX2/font
+s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/33688/AppData/Local/Programs/Mi
+KTeX2/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/33688/AppData/Local/Pr
+ograms/MiKTeX2/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on assignment.pdf (4 pages, 574367 bytes).
 PDF statistics:
- 354 PDF objects out of 1000 (max. 8388607)
- 37 named destinations out of 1000 (max. 500000)
- 90 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 437 PDF objects out of 1000 (max. 8388607)
+ 38 named destinations out of 1000 (max. 500000)
+ 127 words of extra memory for PDF output out of 10000 (max. 10000000)
 
