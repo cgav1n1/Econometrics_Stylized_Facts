@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.30)  11 NOV 2024 11:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.30)  11 NOV 2024 12:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -356,14 +356,14 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(45.80893pt, 505.89pt, 45.80894pt)
-* v-part:(T,H,B)=(20.03073pt, 794.96999pt, 30.04613pt)
+* v-part:(T,H,B)=(34.48474pt, 758.83499pt, 51.72711pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=505.89pt
-* \textheight=794.96999pt
+* \textheight=758.83499pt
 * \oddsidemargin=-26.46106pt
 * \evensidemargin=-26.46106pt
-* \topmargin=-89.23926pt
+* \topmargin=-74.78525pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -453,21 +453,21 @@ Package pdftex.def Info: Img/Autocorrelation.pdf  used on input line 146.
 (pdftex.def)             Requested size: 404.71353pt x 260.85162pt.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/02/21 1.10 listings language file
-) (./code_appendix.tex
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 5.
-LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <8> not available
-(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 7.
- [4
+) (./code_appendix.tex [4
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.8 import 
-           pandas as pd
+l.5 ...e=Python, caption=Python Code for Analysis]
+                                                  
 pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.8 import 
-           pandas as pd <./Img/Laggedlog(p_t-1).pdf> <./Img/Autocorrelation.pdf>]) [5] (./assignment.aux)
+l.5 ...e=Python, caption=Python Code for Analysis]
+                                                   <./Img/Laggedlog(p_t-1).pdf> <./Img/Autocorrelation.pdf>]
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 5.
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <8> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 7.
+) [5] (./assignment.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -482,9 +482,9 @@ Here is how much of TeX's memory you used:
  34317 multiletter control sequences out of 15000+600000
  564315 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,79p,402b,2179s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,79p,402b,1365s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on assignment.pdf (5 pages, 531561 bytes).
+Output written on assignment.pdf (5 pages, 531855 bytes).
 PDF statistics:
  449 PDF objects out of 1000 (max. 8388607)
  220 compressed objects within 3 object streams
