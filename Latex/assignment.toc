@@ -19,3 +19,4 @@
 \contentsline {subsection}{\numberline {4.7}Volatility clustering and long range dependence of squared returns}{5}{subsection.4.7}%
 \contentsline {subsection}{\numberline {4.8}Leverage effect}{5}{subsection.4.8}%
 \contentsline {section}{\numberline {A}Appendix: Python Code}{5}{appendix.A}%
+\contentsline {section}{\numberline {B}To go further, CAPM pricing model}{5}{appendix.B}%

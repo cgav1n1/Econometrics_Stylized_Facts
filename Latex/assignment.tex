@@ -9,7 +9,7 @@
 \usepackage{graphicx}  % Required to include images
 \usepackage{hyperref}% to put links
 \usepackage{float} %to place correctly pictures
-
+\usepackage{cite} %for better citations
 
 \hypersetup{
     colorlinks=true,
@@ -158,6 +158,14 @@ relationship, indicating that Amazon's prices at time \( t \) are highly depende
 
 \subsubsection{High frequency non-Gaussianity}
 
+\noindent positive skewness \cite{Skewness} TODO add an article about amzn skewness.
+The 3\textsuperscript{rd} central moment is defined as
+$\mu_3 := E((X - m_1)^3).$ The skewness of \( r_t \) is defined as:
+\[
+\text{Skew}(r_t) := E \left[ \left( \frac{X - m_1}{\sigma} \right)^3 \right] = \frac{\mu_3}{\sigma^3} = \frac{\mu_3}{\mu_2^{3/2}}.
+\]
+
+
 \subsubsection{Aggregational Gaussianity}
 
 \subsection{Returns are not autocorrelated}
@@ -186,6 +194,11 @@ relationship, indicating that Amazon's prices at time \( t \) are highly depende
 }
 
 \input{code_appendix.tex}  % Include the code appendix
+
+\section{To go further, CAPM pricing model}
+
+\bibliographystyle{plain}
+\bibliography{bibliography} % Do not include the .bib extension
 
 
 \end{document}
