@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.30)  11 NOV 2024 12:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.30)  11 NOV 2024 14:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -391,30 +391,34 @@ Package hyperref Info: Link coloring ON on input line 28.
 \tf@toc=\write4
 \openout4 = `assignment.toc'.
 
- (./table.tex) [1
+ (./table.tex)
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.84 
-     ]
-<Img/MissingDates(2010_to_2011).pdf, id=96, 578.05965pt x 198.18912pt>
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Img/MissingDates(2010_to_2011).pdf, id=113, 578.05965pt x 198.18912pt>
 File: Img/MissingDates(2010_to_2011).pdf Graphic file (type pdf)
 <use Img/MissingDates(2010_to_2011).pdf>
 Package pdftex.def Info: Img/MissingDates(2010_to_2011).pdf  used on input line 87.
 (pdftex.def)             Requested size: 505.89pt x 173.45132pt.
-<Img/prices_time.pdf, id=97, 1076.73079pt x 352.98262pt>
+[1
+
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<Img/prices_time.pdf, id=126, 1076.73079pt x 352.98262pt>
 File: Img/prices_time.pdf Graphic file (type pdf)
 <use Img/prices_time.pdf>
 Package pdftex.def Info: Img/prices_time.pdf  used on input line 102.
 (pdftex.def)             Requested size: 505.89pt x 165.8426pt.
-<Img/log_returns.pdf, id=98, 1076.73079pt x 281.65213pt>
+<Img/log_returns.pdf, id=127, 1076.73079pt x 281.65213pt>
 File: Img/log_returns.pdf Graphic file (type pdf)
 <use Img/log_returns.pdf>
 Package pdftex.def Info: Img/log_returns.pdf  used on input line 111.
 (pdftex.def)             Requested size: 505.89pt x 132.32924pt.
  [2
+pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.115 
+      
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
@@ -425,12 +429,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has
                                                   \__shipout_drop_firstpage_...
 l.115 
        <./Img/MissingDates(2010_to_2011).pdf> <./Img/prices_time.pdf>]
-<Img/squared_log_returns.pdf, id=180, 715.41154pt x 280.27097pt>
+<Img/squared_log_returns.pdf, id=211, 715.41154pt x 280.27097pt>
 File: Img/squared_log_returns.pdf Graphic file (type pdf)
 <use Img/squared_log_returns.pdf>
 Package pdftex.def Info: Img/squared_log_returns.pdf  used on input line 120.
 (pdftex.def)             Requested size: 505.89pt x 198.18549pt.
-<Img/Laggedlog(p_t-1).pdf, id=181, 409.78532pt x 329.41455pt>
+<Img/Laggedlog(p_t-1).pdf, id=212, 409.78532pt x 329.41455pt>
 File: Img/Laggedlog(p_t-1).pdf Graphic file (type pdf)
 <use Img/Laggedlog(p_t-1).pdf>
 Package pdftex.def Info: Img/Laggedlog(p_t-1).pdf  used on input line 133.
@@ -446,7 +450,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has
                                                   \__shipout_drop_firstpage_...
 l.137 
        <./Img/log_returns.pdf> <./Img/squared_log_returns.pdf>]
-<Img/Autocorrelation.pdf, id=272, 611.26181pt x 393.98067pt>
+<Img/Autocorrelation.pdf, id=302, 611.26181pt x 393.98067pt>
 File: Img/Autocorrelation.pdf Graphic file (type pdf)
 <use Img/Autocorrelation.pdf>
 Package pdftex.def Info: Img/Autocorrelation.pdf  used on input line 146.
@@ -473,21 +477,21 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `assignment.out' has not changed.
-(rerunfilecheck)             Checksum: E592291542335DB9A8FA5FB0D5DE7BD3;1934.
+(rerunfilecheck)             Checksum: 609DC1320F72A940AAB6A7747F4C8F6D;2686.
  ) 
 Here is how much of TeX's memory you used:
- 12136 strings out of 474116
- 183251 string characters out of 5743682
- 1998187 words of memory out of 5000000
- 34317 multiletter control sequences out of 15000+600000
+ 12146 strings out of 474116
+ 183421 string characters out of 5743682
+ 2000187 words of memory out of 5000000
+ 34322 multiletter control sequences out of 15000+600000
  564315 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,9n,79p,402b,1365s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on assignment.pdf (5 pages, 531855 bytes).
+Output written on assignment.pdf (5 pages, 534874 bytes).
 PDF statistics:
- 449 PDF objects out of 1000 (max. 8388607)
- 220 compressed objects within 3 object streams
- 40 named destinations out of 1000 (max. 500000)
- 135 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 480 PDF objects out of 1000 (max. 8388607)
+ 251 compressed objects within 3 object streams
+ 45 named destinations out of 1000 (max. 500000)
+ 175 words of extra memory for PDF output out of 10000 (max. 10000000)
 
