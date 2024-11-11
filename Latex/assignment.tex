@@ -123,10 +123,24 @@ Then, ploting the prices evolution:
 \end{figure}
 
 \section{Amazon and the 8 Stylized Facts}
+
+\subsubsection{Summary statistics}
+
+
+% LaTeX table from 'table.tex'
+\begin{table}[H]
+    \centering
+    \input{8stylized.tex}  
+    \caption{Summary statistics for the amazon stock}
+    \label{tab:Stylized_facts_preview}
+\end{table}
+
+% refering to the table with : Table~\ref{tab:Stylized_facts_preview}
+
 \subsection{Prices are non-stationary}
 
 The first feature that will highlight non-stationarity of
- the prices is the comparison of \( p_t \) vs \( p_{t-1} \).
+the prices is the comparison of \( p_t \) vs \( p_{t-1} \).
 
 \begin{figure}[H]
     \centering
@@ -158,13 +172,22 @@ relationship, indicating that Amazon's prices at time \( t \) are highly depende
 
 \subsubsection{High frequency non-Gaussianity}
 
-\noindent positive skewness \cite{Skewness} TODO add an article about amzn skewness.
+\noindent As the result in Table~\ref{tab:Stylized_facts_preview} 
+the skewness is positive for daily and monthly data \cite{Skewness} TODO add an article about amzn skewness.
 The 3\textsuperscript{rd} central moment is defined as
 $\mu_3 := E((X - m_1)^3).$ The skewness of \( r_t \) is defined as:
 \[
 \text{Skew}(r_t) := E \left[ \left( \frac{X - m_1}{\sigma} \right)^3 \right] = \frac{\mu_3}{\sigma^3} = \frac{\mu_3}{\mu_2^{3/2}}.
 \]
+\( \text{Skew}(r_t) >0 \), large realizations of \( X \) are more often larger
+than the mean \( \mu \). 
+Skewness is thus used as a measure of asymmetry of the distribution \( f_X(x) \). Therefore:
+ 
+\( \text{Skew}(r_t) > 0 \), the distribution is said to be \textbf{right skewed}. For symmetric distributions (e.g., Gaussian, t-Student, uniform), 
+we have \( \text{Skew} = 0 \). In these cases, all odd moments are zero:
+\( \mu_r = E[(X - \mu)^3] = 0 \) for \( r = 3, 5, \dots \)
 
+\( \text{Skew}(r_t) > 0 \), then \( \mu > \text{median} \), where the median is the 50\% quantile of the distribution.
 
 \subsubsection{Aggregational Gaussianity}
 

@@ -7,8 +7,9 @@
 \contentsline {subsection}{\numberline {3.1}Prices Evolutions}{2}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Calculating Returns}{3}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}Squared Returns}{3}{subsection.3.3}%
-\contentsline {section}{\numberline {4}Amazon and the 8 Stylized Facts}{3}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Prices are non-stationary}{3}{subsection.4.1}%
+\contentsline {section}{\numberline {4}Amazon and the 8 Stylized Facts}{4}{section.4}%
+\contentsline {subsubsection}{\numberline {4.0.1}Summary statistics}{4}{subsubsection.4.0.1}%
+\contentsline {subsection}{\numberline {4.1}Prices are non-stationary}{4}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Returns are stationary}{5}{subsection.4.2}%
 \contentsline {subsection}{\numberline {4.3}Asymmetry}{5}{subsection.4.3}%
 \contentsline {subsection}{\numberline {4.4}Heavy tails}{5}{subsection.4.4}%
@@ -19,4 +20,4 @@
 \contentsline {subsection}{\numberline {4.7}Volatility clustering and long range dependence of squared returns}{5}{subsection.4.7}%
 \contentsline {subsection}{\numberline {4.8}Leverage effect}{5}{subsection.4.8}%
 \contentsline {section}{\numberline {A}Appendix: Python Code}{5}{appendix.A}%
-\contentsline {section}{\numberline {B}To go further, CAPM pricing model}{5}{appendix.B}%
+\contentsline {section}{\numberline {B}To go further, CAPM pricing model}{6}{appendix.B}%
