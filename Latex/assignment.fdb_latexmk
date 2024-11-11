@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1731330494.6209 "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" "assignment.pdf" "assignment" 1731330495.20593 0
-  "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" 1731330493.72688 6997 22586c438cabbde9fec02b9352f20ad2 ""
+["pdflatex"] 1731330688.02072 "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" "assignment.pdf" "assignment" 1731330688.60069 0
+  "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" 1731330686.51797 7152 20ee9d37b975e5bb5da73d5dc18fe45d ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -104,10 +104,10 @@
   "Img/log_returns.pdf" 1731322165.39129 120211 47f4e8d5d5eed33c355957af53e738eb ""
   "Img/prices_time.pdf" 1731322164.63043 54871 12ff2d29168a10b46764a915cb712f65 ""
   "Img/squared_log_returns.pdf" 1731322165.90592 85932 196e0ce4ae253fc383235f1374034123 ""
-  "assignment.aux" 1731330495.14242 4272 473d6f492c5939bcbbd2a207f7f07251 "pdflatex"
-  "assignment.out" 1731330495.14307 2686 609dc1320f72a940aab6a7747f4c8f6d "pdflatex"
-  "assignment.tex" 1731330493.72688 6997 22586c438cabbde9fec02b9352f20ad2 ""
-  "assignment.toc" 1731330495.14325 1484 e07c752813423f4491276ba6d380cbba "pdflatex"
+  "assignment.aux" 1731330688.53848 4704 aaed9defd4e16a2f669e4fde7cc0aef9 "pdflatex"
+  "assignment.out" 1731330688.53933 3451 55d34d0409cdfa76c8e4cdc4f18035c6 "pdflatex"
+  "assignment.tex" 1731330686.51797 7152 20ee9d37b975e5bb5da73d5dc18fe45d ""
+  "assignment.toc" 1731330688.53974 1793 05e6ae8386d97507311cbe2d514fb4b5 "pdflatex"
   "code_appendix.tex" 1731322164.97435 445 73e19eed10d522d37ad603925e9997f3 ""
   "table.tex" 1731322163.60639 677 ea688e2c2b14c5e30eb9917b3ebf3155 ""
   (generated)

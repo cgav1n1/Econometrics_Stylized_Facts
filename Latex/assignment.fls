@@ -170,12 +170,12 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbxti10.tfm
 INPUT ./table.tex
 INPUT ./table.tex
 INPUT table.tex
-INPUT ./Img/MissingDates(2010_to_2011).pdf
-INPUT ./Img/MissingDates(2010_to_2011).pdf
-INPUT ./Img/MissingDates(2010_to_2011).pdf
-INPUT ./Img/MissingDates(2010_to_2011).pdf
-INPUT ./Img/MissingDates(2010_to_2011).pdf
 INPUT /usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT ./Img/MissingDates(2010_to_2011).pdf
+INPUT ./Img/MissingDates(2010_to_2011).pdf
+INPUT ./Img/MissingDates(2010_to_2011).pdf
+INPUT ./Img/MissingDates(2010_to_2011).pdf
+INPUT ./Img/MissingDates(2010_to_2011).pdf
 INPUT ./Img/prices_time.pdf
 INPUT ./Img/prices_time.pdf
 INPUT ./Img/prices_time.pdf
