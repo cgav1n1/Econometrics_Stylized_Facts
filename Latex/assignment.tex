@@ -59,7 +59,7 @@ then initialising variables to separate the differents datas (daily, monthly, ..
 \subsection{AMAZON}
 
 The chosen stock is Amazon, because it is higly related in the current actuality. We are very interested in a major company such as Amazon, which has grown significantly over time.
-The ticker from yahoo finance is "\textbf{\textit{AMZN}} " on the Nasdaq stock exchange \href{https://finance.yahoo.com/quote/AMZN/.}{AMAZON on Yahoo Finance}
+The ticker from yahoo finance is " \textbf{\textit{AMZN}} " on the Nasdaq stock exchange \href{https://finance.yahoo.com/quote/AMZN/.}{AMAZON on Yahoo Finance}
 First, importing the Amazon stock with yfinance, then display the pandas table.
 We will import 25 years, 8 months and 25 days of data (from 1999-01-21 to 2024-10-16).
 
@@ -75,7 +75,7 @@ The data printed here, is the preview of the Amazon stock extraction from yahoo 
 
 
 
-\subsection{Checking the 25 year range condition}
+\subsection{Checking the 25 Years range condition}
 
 We have to check that the data is correctly displayed over a 25years range, hopefully, 
 the introduction from Amazon is from january 1999, so it we should be able to find a 25 year range
@@ -89,7 +89,11 @@ the dates of gaps in order to see for any huge gap that would be problematic for
     \label{fig:missing_dates}
 \end{figure}
 
-\subsection{Prices evolutions}
+We count only 9 days without data over the 25-year range. Thus, the full data contains at least 25 years of values
+
+\section{First Results}
+
+\subsection{Prices Evolutions}
 
 Then, ploting the prices evolution:
 
@@ -100,7 +104,7 @@ Then, ploting the prices evolution:
     \label{fig:prices_time}
 \end{figure}
 
-\subsection{Calculating returns}
+\subsection{Calculating Returns}
 
 \begin{figure}[H]
     \centering
@@ -109,7 +113,7 @@ Then, ploting the prices evolution:
     \label{fig:log_returns}
 \end{figure}
 
-\subsection{Squared returns}
+\subsection{Squared Returns}
 
 \begin{figure}[H]
     \centering
@@ -117,6 +121,11 @@ Then, ploting the prices evolution:
     \caption{Squared daily returns and daily log returns}
     \label{fig:squared_logreturns}
 \end{figure}
+
+\section{Amazon and the 8 Stylized Facts}
+\subsection{Prices are non-stationary}
+
+The first feature that will highlight non-stationarity of the prices is the comparison of p(t) vs p(t-1)
 
 \appendix
 
