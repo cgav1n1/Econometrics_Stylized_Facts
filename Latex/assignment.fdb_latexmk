@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex assignment"] 1731426518.4353 "assignment.aux" "assignment.bbl" "assignment" 1731426519.34667 0
+["bibtex assignment"] 1731428734.6981 "assignment.aux" "assignment.bbl" "assignment" 1731428786.39047 0
   "./bibliography.bib" 1731426427.6345 478 735246bfe81366c588eff633a8db7f46 ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "assignment.aux" 1731426519.08859 5358 93bbcb463676ce9a3a49b19ecda34de4 "pdflatex"
+  "assignment.aux" 1731428786.14941 5358 26ad5b4a18df2b0384e73c2e75965980 "pdflatex"
   (generated)
   "assignment.bbl"
   "assignment.blg"
   (rewritten before read)
-["pdflatex"] 1731426518.53973 "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" "assignment.pdf" "assignment" 1731426519.34679 0
-  "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" 1731426517.29601 9084 43cb274ffed343a546e6e6a7293a5873 ""
+["pdflatex"] 1731428785.54378 "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" "assignment.pdf" "assignment" 1731428786.39061 0
+  "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" 1731428785.30196 10153 c2ae26e64be34c5312d6927a3b92475d ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -117,11 +117,11 @@
   "Img/log_returns.pdf" 1731424591.22192 149016 41fef7d8c8aa4ddf9afc792dba589c9b ""
   "Img/prices_time.pdf" 1731424590.34668 54871 414feee7f20248a0de5462b2473f929a ""
   "Img/squared_log_returns.pdf" 1731424591.8244 87651 8be247ce92814fe60a7669b5a75e6afb ""
-  "assignment.aux" 1731426519.08859 5358 93bbcb463676ce9a3a49b19ecda34de4 "pdflatex"
-  "assignment.bbl" 1731426518.53769 368 3cc0c13b933970806c86c79628a70206 "bibtex assignment"
-  "assignment.out" 1731426519.08954 3832 d5adb03d216fb8c10911856ba27c7e77 "pdflatex"
-  "assignment.tex" 1731426517.29601 9084 43cb274ffed343a546e6e6a7293a5873 ""
-  "assignment.toc" 1731426519.08975 1977 964eb3e5ef59e214edbf3f9ee818a9a2 "pdflatex"
+  "assignment.aux" 1731428786.14941 5358 26ad5b4a18df2b0384e73c2e75965980 "pdflatex"
+  "assignment.bbl" 1731428734.7948 368 3cc0c13b933970806c86c79628a70206 "bibtex assignment"
+  "assignment.out" 1731428786.15015 3832 d5adb03d216fb8c10911856ba27c7e77 "pdflatex"
+  "assignment.tex" 1731428785.30196 10153 c2ae26e64be34c5312d6927a3b92475d ""
+  "assignment.toc" 1731428786.15035 1977 3cd23bc17d723daee42a67533420ca60 "pdflatex"
   "code_appendix.tex" 1731424590.69092 445 73e19eed10d522d37ad603925e9997f3 ""
   "table.tex" 1731424589.20834 677 ea688e2c2b14c5e30eb9917b3ebf3155 ""
   (generated)
