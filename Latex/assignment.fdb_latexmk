@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex assignment"] 1731424132.36336 "assignment.aux" "assignment.bbl" "assignment" 1731424161.68848 0
-  "./bibliography.bib" 1731333180.04536 318 0cbb5a2e43253cc799ce8d3bade19fa6 ""
+["bibtex assignment"] 1731426518.4353 "assignment.aux" "assignment.bbl" "assignment" 1731426519.34667 0
+  "./bibliography.bib" 1731426427.6345 478 735246bfe81366c588eff633a8db7f46 ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "assignment.aux" 1731424161.44185 5298 f10b793c71a10e84e19a1608b7a176bc "pdflatex"
+  "assignment.aux" 1731426519.08859 5358 93bbcb463676ce9a3a49b19ecda34de4 "pdflatex"
   (generated)
   "assignment.bbl"
   "assignment.blg"
   (rewritten before read)
-["pdflatex"] 1731424160.84759 "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" "assignment.pdf" "assignment" 1731424161.6886 0
-  "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" 1731424160.61623 9059 d95bb0584fbecc0d62601ec3762d6539 ""
+["pdflatex"] 1731426518.53973 "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" "assignment.pdf" "assignment" 1731426519.34679 0
+  "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" 1731426517.29601 9084 43cb274ffed343a546e6e6a7293a5873 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -113,17 +113,17 @@
   "8stylized.tex" 1731341569.64764 1604 2e95532616a71d068d9dc95bd473c09b ""
   "Img/Autocorrelation.pdf" 1731321741.9327 15133 05648f036e87532f73f2f211fc214694 ""
   "Img/Laggedlog(p_t-1).pdf" 1731322337.9847 101710 acc6000d6a36b21c2f6b99c52a766c6b ""
-  "Img/MissingDates(2010_to_2011).pdf" 1731423808.85665 12038 eaf2c9421fd82172ebc667d7d8bbc5c7 ""
-  "Img/log_returns.pdf" 1731423808.85789 149027 86cc6f9fabddf8a1cdbadc478167477b ""
-  "Img/prices_time.pdf" 1731423808.85862 54940 1a87b454aca21364327a4ed4a9173d59 ""
-  "Img/squared_log_returns.pdf" 1731423808.85954 87923 eed9531d0f203c2e489eb31d8b4c3223 ""
-  "assignment.aux" 1731424161.44185 5298 f10b793c71a10e84e19a1608b7a176bc "pdflatex"
-  "assignment.bbl" 1731424132.45771 181 3ef1446c1032813c64135b1eff5e322e "bibtex assignment"
-  "assignment.out" 1731424161.44273 3832 d5adb03d216fb8c10911856ba27c7e77 "pdflatex"
-  "assignment.tex" 1731424160.61623 9059 d95bb0584fbecc0d62601ec3762d6539 ""
-  "assignment.toc" 1731424161.44292 1977 964eb3e5ef59e214edbf3f9ee818a9a2 "pdflatex"
-  "code_appendix.tex" 1731322164.97435 445 73e19eed10d522d37ad603925e9997f3 ""
-  "table.tex" 1731404168.40105 685 052f5b74517466b23de859e43d9db6dc ""
+  "Img/MissingDates(2010_to_2011).pdf" 1731424589.53854 12032 eb3dd0731bfc7275fd5980c9ddf79b7d ""
+  "Img/log_returns.pdf" 1731424591.22192 149016 41fef7d8c8aa4ddf9afc792dba589c9b ""
+  "Img/prices_time.pdf" 1731424590.34668 54871 414feee7f20248a0de5462b2473f929a ""
+  "Img/squared_log_returns.pdf" 1731424591.8244 87651 8be247ce92814fe60a7669b5a75e6afb ""
+  "assignment.aux" 1731426519.08859 5358 93bbcb463676ce9a3a49b19ecda34de4 "pdflatex"
+  "assignment.bbl" 1731426518.53769 368 3cc0c13b933970806c86c79628a70206 "bibtex assignment"
+  "assignment.out" 1731426519.08954 3832 d5adb03d216fb8c10911856ba27c7e77 "pdflatex"
+  "assignment.tex" 1731426517.29601 9084 43cb274ffed343a546e6e6a7293a5873 ""
+  "assignment.toc" 1731426519.08975 1977 964eb3e5ef59e214edbf3f9ee818a9a2 "pdflatex"
+  "code_appendix.tex" 1731424590.69092 445 73e19eed10d522d37ad603925e9997f3 ""
+  "table.tex" 1731424589.20834 677 ea688e2c2b14c5e30eb9917b3ebf3155 ""
   (generated)
   "assignment.aux"
   "assignment.log"

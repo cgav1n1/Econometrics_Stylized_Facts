@@ -5,4 +5,9 @@ John Doe and Jane Smith.
 \newblock An example article.
 \newblock {\em Journal of Examples}, 42(1):1--10, 2023.
 
+\bibitem{pumi2023longrange}
+Giovanni Pumi et~al.
+\newblock Estimation of long-range dependent models with missing data: to impute or not to impute?
+\newblock {\em arXiv preprint}, 2023.
+
 \end{thebibliography}
