@@ -167,12 +167,12 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 OUTPUT assignment.toc
+INPUT /usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbxti10.tfm
 INPUT ./table.tex
 INPUT ./table.tex
 INPUT table.tex
-INPUT /usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT ./Img/MissingDates(2010_to_2011).pdf
 INPUT ./Img/MissingDates(2010_to_2011).pdf
 INPUT ./Img/MissingDates(2010_to_2011).pdf
@@ -234,6 +234,9 @@ INPUT ./Img/lillie_test_AMZNannualy.pdf
 INPUT ./Img/lillie_test_AMZNannualy.pdf
 INPUT ./Img/lillie_test_AMZNannualy.pdf
 INPUT ./Img/lillie_test_AMZNannualy.pdf
+INPUT ./LB_BP.tex
+INPUT ./LB_BP.tex
+INPUT LB_BP.tex
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty

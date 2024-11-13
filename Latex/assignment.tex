@@ -6,6 +6,7 @@
 \usepackage[toc,page]{appendix}
 \usepackage{listings} % Listing package to add appendix
 \usepackage{xcolor}   % Custom colors
+\definecolor{darkbrown}{rgb}{0.36, 0.2, 0.1}
 \usepackage{graphicx}  % Required to include images
 \usepackage{hyperref}% to put links
 \usepackage{float} %to place correctly pictures
@@ -25,6 +26,10 @@
 \definecolor{codeblue}{rgb}{0,0,0.8}
 \definecolor{codepurple}{rgb}{0.58,0,0.82}
 \definecolor{codebackground}{rgb}{0.95,0.95,0.92}
+
+% Suppress page numbering on the first page
+\pagenumbering{gobble}
+
 \begin{document}
 
 \title{Mid term Exam for Financial Econometrics with Python}
@@ -34,6 +39,10 @@
 \maketitle %showcase the title in the top of the page with the informations upper
 
 \tableofcontents %creating a table of contens
+\clearpage
+
+% Start counting pages from here
+\pagenumbering{Roman} % Preliminary content with roman figures
 
 %first, introduction
 \section{Introduction}
@@ -136,6 +145,11 @@ To complete the analysis of daily price data, we also plot the daily squared ret
     \label{fig:squared_logreturns}
 \end{figure}
 
+\clearpage
+% Start main content with Arabic numbering from 1
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
 \section{Amazon and the 8 Stylized Facts}
 
 \subsubsection{Summary statistics}
@@ -207,7 +221,8 @@ TODO
         \begin{table}[H]
             \centering
             \input{table_Skewness_kurtosis.tex}  
-            \caption{Skewness and kurtosis for $log$ returns}
+            \caption{\textbf{Skewness and kurtosis of daily, weekly, monthly and annual} $log$ returns of the AMZN stock. 
+            Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.}
             \label{tab:skewness_kurtosis}
         \end{table}
     \end{minipage}
@@ -215,7 +230,8 @@ TODO
     \begin{minipage}{0.45\textwidth}
         \centering
         \includegraphics[width=0.8\textwidth]{Img/Fact3_2_rollskew.pdf}
-        \caption{Rolling skewness}
+        \caption{\textbf{Rolling skewness} of AMZN stock. 
+        Sample: \textbf{01-21-1999} to \textbf{10-16-2024}. The \textcolor{red}{red bands} corresponds to the limit of acceptance, the blue line correspond to the rolling skewness with T=252}
         \label{fig:Rolling_skewness}
     \end{minipage}
 \end{figure}
@@ -227,7 +243,8 @@ TODO
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.6\textwidth]{Img/QQplot_daily_weekly_AMZN.pdf}
-    \caption{Histogram and QQ plot of log-returns}
+    \caption{Log returns $r_t := p_t - p_{t-1}$: \textbf{histograms of daily, monthly} “adjusted closing” of AMAZON. 
+    Sample: \textbf{01-21-1999} to \textbf{10-16-2024}. QQ plot against quantiles of normal distribution with same mean and variance as the empirical distribution of returns.}
     \label{fig:Hstogram_QQ_plot}
 \end{figure}
 
@@ -236,7 +253,8 @@ The QQ-plot provide graphical evidence that the tails of the daily returns distr
 \begin{figure}[H]
     \centering
     \includegraphics[width=1\textwidth]{Img/qqplt_tstudents_AMZNdaily.pdf}
-    \caption{QQ-plots for $\nu = 10, 5 , 3$}
+    \caption{Log returns $r_t := p_t - p_{t-1}$: \textbf{daily} “adjusted closing” of AMZN stock. 
+    Sample: \textbf{01-21-1999} to \textbf{10-16-2024}. \textbf{QQ plot of Sample standardized quantiles} (0 mean and unit variance) \textbf{of daily log-returns against quantiles of standardized} (0 mean and unit variance) \textbf{Student-t distributions} with $\nu = 10$, 5, and 3 degrees of freedom.}
     \label{fig:Hstogram_QQ_plot}
 \end{figure}
 \subsection{Gaussianity}
@@ -267,15 +285,20 @@ Skewness is thus used as a measure of asymmetry of the distribution \( f_X(x) \)
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.8\textwidth]{Img/lillie_test_AMZNannualy.pdf}
-    \caption{Log returns $r_t := p_t - p_{t-1}$: \textbf{annual} “adjusted closing” of S\&P500. 
-    Sample: 01-21-1999 to 10-16-2024. \textbf{Left panel}: empirical and Normal cdf's for the standardized annual returns of the S\&P500. \textbf{Right panel}: values of $\left| G_T(\tilde{r}_t) - \Phi(\tilde{r}_t, \hat{\mu}, \hat{\sigma}^2) \right|$ (blue line) and critical values for the Lilliefors test for the three significance levels 10\%, 5\% and 1\%.}
+    \caption{Log returns $r_t := p_t - p_{t-1}$: \textbf{annual} “adjusted closing” of AMZN. 
+    Sample: \textbf{01-21-1999} to \textbf{10-16-2024}. \textbf{Left panel}: empirical and Normal cdf's for the standardized annual returns of AMZN. \textbf{Right panel}: values of $\left| G_T(\tilde{r}_t) - \Phi(\tilde{r}_t, \hat{\mu}, \hat{\sigma}^2) \right|$ (\textcolor{blue}{blue line}) and critical values for the Lilliefors test for the three significance levels \textcolor{orange}{10\%}, \textcolor{red}{5\%} and \textcolor{darkbrown}{1\%}.}
     \label{fig:Lillie_test_weekly}
 \end{figure}
 
 \noindent The blue line is under the critical values lines, 
 So the test is respected and so for the Gaussianity.
 \subsection{Returns are not autocorrelated}
-TODO
+\begin{table}[h!]
+    \centering
+    \input{LB_BP.tex}  
+    \caption{Ljung-Box and Box-Pierce}
+    \label{tab:LB_BP}
+\end{table}
 \subsection{Volatility clustering and long range dependence of squared returns}
 TODO
 \subsection{Leverage effect}

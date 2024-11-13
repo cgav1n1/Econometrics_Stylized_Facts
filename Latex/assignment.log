@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.30)  13 NOV 2024 15:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.30)  13 NOV 2024 16:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -306,7 +306,7 @@ LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 21.
+Package hyperref Info: Option `colorlinks' set `true' on input line 22.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count305
@@ -318,24 +318,24 @@ LaTeX Warning: Label `fig:Hstogram_QQ_plot' multiply defined.
 )
 \openout1 = `assignment.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
  (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count306
@@ -390,7 +390,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \c@lstlisting=\count312
-Package hyperref Info: Link coloring ON on input line 28.
+Package hyperref Info: Link coloring ON on input line 33.
 (./assignment.out) (./assignment.out)
 \@outlinefile=\write3
 \openout3 = `assignment.out'.
@@ -399,165 +399,170 @@ Package hyperref Info: Link coloring ON on input line 28.
 \tf@toc=\write4
 \openout4 = `assignment.toc'.
 
- (./table.tex)
+ [1
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[1
-
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<Img/MissingDates(2010_to_2011).pdf, id=156, 578.05965pt x 198.18912pt>
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./table.tex)
+<Img/MissingDates(2010_to_2011).pdf, id=154, 578.05965pt x 198.18912pt>
 File: Img/MissingDates(2010_to_2011).pdf Graphic file (type pdf)
 <use Img/MissingDates(2010_to_2011).pdf>
-Package pdftex.def Info: Img/MissingDates(2010_to_2011).pdf  used on input line 91.
+Package pdftex.def Info: Img/MissingDates(2010_to_2011).pdf  used on input line 100.
 (pdftex.def)             Requested size: 404.71353pt x 138.76166pt.
-<Img/prices_time.pdf, id=158, 1076.73079pt x 352.98262pt>
+<Img/prices_time.pdf, id=156, 1076.73079pt x 352.98262pt>
 File: Img/prices_time.pdf Graphic file (type pdf)
 <use Img/prices_time.pdf>
-Package pdftex.def Info: Img/prices_time.pdf  used on input line 110.
+Package pdftex.def Info: Img/prices_time.pdf  used on input line 119.
 (pdftex.def)             Requested size: 505.89pt x 165.8426pt.
-<Img/log_returns.pdf, id=159, 1076.73079pt x 281.65213pt>
-File: Img/log_returns.pdf Graphic file (type pdf)
-<use Img/log_returns.pdf>
-Package pdftex.def Info: Img/log_returns.pdf  used on input line 123.
-(pdftex.def)             Requested size: 505.89pt x 132.32924pt.
- [2
+ [1
+
+
 pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.126 \end{figure}
+l.122 \end{figure}
                   
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.126 \end{figure}
-                  
+l.122 \end{figure}
+                   <./Img/MissingDates(2010_to_2011).pdf>]
+<Img/log_returns.pdf, id=198, 1076.73079pt x 281.65213pt>
+File: Img/log_returns.pdf Graphic file (type pdf)
+<use Img/log_returns.pdf>
+Package pdftex.def Info: Img/log_returns.pdf  used on input line 132.
+(pdftex.def)             Requested size: 505.89pt x 132.32924pt.
+<Img/squared_log_returns.pdf, id=199, 715.41154pt x 280.27097pt>
+File: Img/squared_log_returns.pdf Graphic file (type pdf)
+<use Img/squared_log_returns.pdf>
+Package pdftex.def Info: Img/squared_log_returns.pdf  used on input line 143.
+(pdftex.def)             Requested size: 404.71353pt x 158.5501pt.
+ [2
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.126 \end{figure}
-                   <./Img/MissingDates(2010_to_2011).pdf> <./Img/prices_time.pdf>]
-<Img/squared_log_returns.pdf, id=243, 715.41154pt x 280.27097pt>
-File: Img/squared_log_returns.pdf Graphic file (type pdf)
-<use Img/squared_log_returns.pdf>
-Package pdftex.def Info: Img/squared_log_returns.pdf  used on input line 134.
-(pdftex.def)             Requested size: 404.71353pt x 158.5501pt.
-
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 141.
-
-(./8stylized.tex) [3
+l.147 
+      
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.150 
-      
+l.147 
+       <./Img/prices_time.pdf> <./Img/log_returns.pdf>] [3
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.150 
-       <./Img/log_returns.pdf> <./Img/squared_log_returns.pdf>]
-<Img/Laggedlog(p_t-1).pdf, id=339, 409.78532pt x 329.41455pt>
+l.148 \clearpage
+                 <./Img/squared_log_returns.pdf>]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 155.
+
+(./8stylized.tex)
+<Img/Laggedlog(p_t-1).pdf, id=343, 409.78532pt x 329.41455pt>
 File: Img/Laggedlog(p_t-1).pdf Graphic file (type pdf)
 <use Img/Laggedlog(p_t-1).pdf>
-Package pdftex.def Info: Img/Laggedlog(p_t-1).pdf  used on input line 161.
+Package pdftex.def Info: Img/Laggedlog(p_t-1).pdf  used on input line 175.
 (pdftex.def)             Requested size: 252.94499pt x 203.33517pt.
-<Img/Autocorrel_daily_monthly.pdf, id=341, 1059.33585pt x 393.98067pt>
+<Img/Autocorrel_daily_monthly.pdf, id=345, 1059.33585pt x 393.98067pt>
 File: Img/Autocorrel_daily_monthly.pdf Graphic file (type pdf)
 <use Img/Autocorrel_daily_monthly.pdf>
-Package pdftex.def Info: Img/Autocorrel_daily_monthly.pdf  used on input line 174.
+Package pdftex.def Info: Img/Autocorrel_daily_monthly.pdf  used on input line 188.
 (pdftex.def)             Requested size: 404.71353pt x 150.51976pt.
- [4
+ [1
+
+
 pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.178 
+l.192 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.178 
+l.192 
        <./Img/Laggedlog(p_t-1).pdf>]
-<Img/Daily_Log_Returns.pdf, id=390, 619.66823pt x 425.49394pt>
+<Img/Daily_Log_Returns.pdf, id=394, 619.66823pt x 425.49394pt>
 File: Img/Daily_Log_Returns.pdf Graphic file (type pdf)
 <use Img/Daily_Log_Returns.pdf>
-Package pdftex.def Info: Img/Daily_Log_Returns.pdf  used on input line 183.
+Package pdftex.def Info: Img/Daily_Log_Returns.pdf  used on input line 197.
 (pdftex.def)             Requested size: 303.53708pt x 208.42242pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--193
+Underfull \hbox (badness 10000) in paragraph at lines 202--207
 
  []
 
 (./table_Skewness_kurtosis.tex)
-Overfull \hbox (15.2405pt too wide) in paragraph at lines 1--210
+Overfull \hbox (15.2405pt too wide) in paragraph at lines 1--225
  [][] 
  []
 
-<Img/Fact3_2_rollskew.pdf, id=392, 408.45221pt x 344.99333pt>
+<Img/Fact3_2_rollskew.pdf, id=396, 408.45221pt x 344.99333pt>
 File: Img/Fact3_2_rollskew.pdf Graphic file (type pdf)
 <use Img/Fact3_2_rollskew.pdf>
-Package pdftex.def Info: Img/Fact3_2_rollskew.pdf  used on input line 217.
+Package pdftex.def Info: Img/Fact3_2_rollskew.pdf  used on input line 232.
 (pdftex.def)             Requested size: 182.11984pt x 153.8295pt.
-[5
+[2
 pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.222 
+l.238 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.222 
+l.238 
        <./Img/Autocorrel_daily_monthly.pdf> <./Img/Daily_Log_Returns.pdf>]
-<Img/QQplot_daily_weekly_AMZN.pdf, id=481, 859.05775pt x 570.60051pt>
+<Img/QQplot_daily_weekly_AMZN.pdf, id=485, 859.05775pt x 570.60051pt>
 File: Img/QQplot_daily_weekly_AMZN.pdf Graphic file (type pdf)
 <use Img/QQplot_daily_weekly_AMZN.pdf>
-Package pdftex.def Info: Img/QQplot_daily_weekly_AMZN.pdf  used on input line 229.
+Package pdftex.def Info: Img/QQplot_daily_weekly_AMZN.pdf  used on input line 245.
 (pdftex.def)             Requested size: 303.53708pt x 201.61992pt.
-<Img/qqplt_tstudents_AMZNdaily.pdf, id=482, 1293.20457pt x 353.79051pt>
+<Img/qqplt_tstudents_AMZNdaily.pdf, id=486, 1293.20457pt x 353.79051pt>
 File: Img/qqplt_tstudents_AMZNdaily.pdf Graphic file (type pdf)
 <use Img/qqplt_tstudents_AMZNdaily.pdf>
-Package pdftex.def Info: Img/qqplt_tstudents_AMZNdaily.pdf  used on input line 238.
+Package pdftex.def Info: Img/qqplt_tstudents_AMZNdaily.pdf  used on input line 255.
 (pdftex.def)             Requested size: 505.89pt x 138.39882pt.
- [6
+ [3
 pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.246 \subsubsection
-                    {High frequency non-Gaussianity}
+l.260 \subsection
+                 {Gaussianity}
 pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.246 \subsubsection
-                    {High frequency non-Gaussianity}
+l.260 \subsection
+                 {Gaussianity}
 pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.246 \subsubsection
-                    {High frequency non-Gaussianity}
+l.260 \subsection
+                 {Gaussianity} <./Img/Fact3_2_rollskew.pdf> <./Img/QQplot_daily_weekly_AMZN.pdf>]
+<Img/lillie_test_AMZNannualy.pdf, id=577, 723.28029pt x 382.61006pt>
+File: Img/lillie_test_AMZNannualy.pdf Graphic file (type pdf)
+<use Img/lillie_test_AMZNannualy.pdf>
+Package pdftex.def Info: Img/lillie_test_AMZNannualy.pdf  used on input line 287.
+(pdftex.def)             Requested size: 404.71353pt x 214.0967pt.
+ (./LB_BP.tex) [4
 pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.246 \subsubsection
-                    {High frequency non-Gaussianity} <./Img/Fact3_2_rollskew.pdf> <./Img/QQplot_daily_weekly_AMZN.pdf> <./Img/qqplt_tstudents_AMZNdaily.pdf>]
-<Img/lillie_test_AMZNannualy.pdf, id=616, 723.28029pt x 382.61006pt>
-File: Img/lillie_test_AMZNannualy.pdf Graphic file (type pdf)
-<use Img/lillie_test_AMZNannualy.pdf>
-Package pdftex.def Info: Img/lillie_test_AMZNannualy.pdf  used on input line 269.
-(pdftex.def)             Requested size: 404.71353pt x 214.0967pt.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
+l.301 \end{table}
+                 
+pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.301 \end{table}
+                  <./Img/qqplt_tstudents_AMZNdaily.pdf> <./Img/lillie_test_AMZNannualy.pdf>] (/usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/02/21 1.10 listings language file
 ) (./code_appendix.tex
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 5.
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <8> not available
 (Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 7.
- [7
-pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) has been already used, duplicate ignored
+) (./assignment.bbl) [5
+pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.12     std_dev 
-                 = np.std(data) <./Img/lillie_test_AMZNannualy.pdf>]) (./assignment.bbl) [8] (./assignment.aux)
+l.333 \end{document}
+                    ] (./assignment.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -570,18 +575,18 @@ Package rerunfilecheck Info: File `assignment.out' has not changed.
 (rerunfilecheck)             Checksum: D5ADB03D216FB8C10911856BA27C7E77;3832.
  ) 
 Here is how much of TeX's memory you used:
- 12336 strings out of 474116
- 187325 string characters out of 5743682
- 1999187 words of memory out of 5000000
- 34481 multiletter control sequences out of 15000+600000
+ 12347 strings out of 474116
+ 187455 string characters out of 5743682
+ 2004187 words of memory out of 5000000
+ 34487 multiletter control sequences out of 15000+600000
  564661 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,741b,2179s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,801b,1366s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on assignment.pdf (8 pages, 1058813 bytes).
+Output written on assignment.pdf (9 pages, 1060871 bytes).
 PDF statistics:
- 802 PDF objects out of 1000 (max. 8388607)
- 345 compressed objects within 4 object streams
- 63 named destinations out of 1000 (max. 500000)
+ 807 PDF objects out of 1000 (max. 8388607)
+ 349 compressed objects within 4 object streams
+ 65 named destinations out of 1000 (max. 500000)
  240 words of extra memory for PDF output out of 10000 (max. 10000000)
 
