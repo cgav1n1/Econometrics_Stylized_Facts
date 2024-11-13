@@ -206,6 +206,11 @@ INPUT ./Img/Autocorrel_daily_monthly.pdf
 INPUT ./Img/Autocorrel_daily_monthly.pdf
 INPUT ./Img/Autocorrel_daily_monthly.pdf
 INPUT ./Img/Autocorrel_daily_monthly.pdf
+INPUT ./Img/Daily_Log_Returns.pdf
+INPUT ./Img/Daily_Log_Returns.pdf
+INPUT ./Img/Daily_Log_Returns.pdf
+INPUT ./Img/Daily_Log_Returns.pdf
+INPUT ./Img/Daily_Log_Returns.pdf
 INPUT ./table_Skewness_kurtosis.tex
 INPUT ./table_Skewness_kurtosis.tex
 INPUT table_Skewness_kurtosis.tex
@@ -214,6 +219,11 @@ INPUT ./Img/Fact3_2_rollskew.pdf
 INPUT ./Img/Fact3_2_rollskew.pdf
 INPUT ./Img/Fact3_2_rollskew.pdf
 INPUT ./Img/Fact3_2_rollskew.pdf
+INPUT ./Img/QQplot_daily_weekly_AMZN.pdf
+INPUT ./Img/QQplot_daily_weekly_AMZN.pdf
+INPUT ./Img/QQplot_daily_weekly_AMZN.pdf
+INPUT ./Img/QQplot_daily_weekly_AMZN.pdf
+INPUT ./Img/QQplot_daily_weekly_AMZN.pdf
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty

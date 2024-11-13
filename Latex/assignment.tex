@@ -177,7 +177,26 @@ relationship, indicating that Amazon's prices at time \( t \) are highly depende
 \end{figure}
 
 \subsection{Returns are stationary}
-TODO
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.6\textwidth]{Img/Daily_Log_Returns.pdf}
+    \caption{Daily log-returns (1999 - 2024)}
+    \label{fig:Daily_log_returns}
+\end{figure}
+
+\noindent The graph Figure~\ref{fig:Daily_log_returns} illustrates the daily log-returns of Amazon's stock over a 25-year period, 
+from 1999 to 2024. $log$-returns are a common way to measure the percentage change in stock prices, 
+and they help assess the stability or stationarity of the returns over time. In a stationary series, we would expect the properties, 
+such as mean and variance, to remain constant over time. 
+However, here we observe significant differences in volatility across the timeline. \\
+
+\noindent In the early years (around 1999-2005), there is noticeably higher volatility in Amazon's log-returns, 
+with frequent large spikes both upwards and downwards. This period corresponds to the tech boom and subsequent dot-com bubble burst, 
+during which many tech stocks, including Amazon, experienced extreme price fluctuations. 
+Additionally, as a relatively new and fast-growing company, Amazon’s stock likely faced higher uncertainty and speculative trading, 
+contributing to greater volatility.
+
 \subsection{Asymmetry}
 TODO
 \textbf{Stylized Fact 3: The distribution of returns is asymmetric and often negatively skewed}, reflecting the fact that the downturns of financial markets are often much steeper than the recoveries. Investors tend to react more strongly to negative news than to positive news.
@@ -203,7 +222,17 @@ TODO
 
 
 \subsection{Heavy tails}
-TODO
+\noindent As showcased in the Table~\ref{tab:skewness_kurtosis}, there is a large excess kurtosis
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.6\textwidth]{Img/QQplot_daily_weekly_AMZN.pdf}
+    \caption{Histogram and QQ plot of log-returns}
+    \label{fig:Hstogram_QQ_plot}
+\end{figure}
+
+\noindent Here, the QQ-Plots explicit clearly how our sample distinguishes from the normal distribution
+
 \subsection{Gaussianity}
 TODO
 \subsubsection{High frequency non-Gaussianity}

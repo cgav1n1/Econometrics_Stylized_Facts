@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex assignment"] 1731504536.53268 "assignment.aux" "assignment.bbl" "assignment" 1731504537.41892 0
+["bibtex assignment"] 1731505481.54951 "assignment.aux" "assignment.bbl" "assignment" 1731505482.52456 0
   "./bibliography.bib" 1731426427.6345 478 735246bfe81366c588eff633a8db7f46 ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "assignment.aux" 1731504537.16596 5806 86baa3e3b135d2b2c785247b5baa8cc4 "pdflatex"
+  "assignment.aux" 1731505482.21481 6271 ef64acb2f4e0cb9a320fc255c1931499 "pdflatex"
   (generated)
   "assignment.bbl"
   "assignment.blg"
   (rewritten before read)
-["pdflatex"] 1731504536.62226 "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" "assignment.pdf" "assignment" 1731504537.41904 0
-  "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" 1731504535.51985 10702 612aa5afbcf8450e5b047b668c566b83 ""
+["pdflatex"] 1731505481.64784 "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" "assignment.pdf" "assignment" 1731505482.52469 0
+  "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" 1731505480.40311 12321 a0ba992e435d00c10c832df2bb0b3005 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -112,17 +112,19 @@
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
   "8stylized.tex" 1731497891.49771 1604 2e95532616a71d068d9dc95bd473c09b ""
   "Img/Autocorrel_daily_monthly.pdf" 1731504517.0231 16924 d4907d710b80cc3242033efb9cebc6a1 ""
+  "Img/Daily_Log_Returns.pdf" 1731497775.66532 64832 c0dbae1966caa4f7cee7150676525bb1 ""
   "Img/Fact3_2_rollskew.pdf" 1731485420.09202 46268 bbc66c6a811421bcb0734a9298e25901 ""
   "Img/Laggedlog(p_t-1).pdf" 1731322337.9847 101710 acc6000d6a36b21c2f6b99c52a766c6b ""
   "Img/MissingDates(2010_to_2011).pdf" 1731497730.83388 12032 dfcaf6b872637868e00e2c909bbea6a3 ""
+  "Img/QQplot_daily_weekly_AMZN.pdf" 1731497782.73727 106386 dd7249de3c65895bd689e9ba9c6e3c27 ""
   "Img/log_returns.pdf" 1731497732.50549 149016 5f1e64d1b17000e94f64f5e1d43cde58 ""
   "Img/prices_time.pdf" 1731497731.46015 54871 6ede83ef99d6862e61ff464a751f0282 ""
   "Img/squared_log_returns.pdf" 1731497733.08667 87651 c37e895c6b761bb7c5c854cf03fec497 ""
-  "assignment.aux" 1731504537.16596 5806 86baa3e3b135d2b2c785247b5baa8cc4 "pdflatex"
-  "assignment.bbl" 1731504536.62012 368 3cc0c13b933970806c86c79628a70206 "bibtex assignment"
-  "assignment.out" 1731504537.16675 3832 d5adb03d216fb8c10911856ba27c7e77 "pdflatex"
-  "assignment.tex" 1731504535.51985 10702 612aa5afbcf8450e5b047b668c566b83 ""
-  "assignment.toc" 1731504537.16694 1977 4483982c2e7af6f799ab790d4fbf9e1d "pdflatex"
+  "assignment.aux" 1731505482.21481 6271 ef64acb2f4e0cb9a320fc255c1931499 "pdflatex"
+  "assignment.bbl" 1731505481.64567 368 3cc0c13b933970806c86c79628a70206 "bibtex assignment"
+  "assignment.out" 1731505482.21555 3832 d5adb03d216fb8c10911856ba27c7e77 "pdflatex"
+  "assignment.tex" 1731505480.40311 12321 a0ba992e435d00c10c832df2bb0b3005 ""
+  "assignment.toc" 1731505482.21576 1977 316e2c380162678a3266a80be021d4d7 "pdflatex"
   "code_appendix.tex" 1731497732.02608 445 73e19eed10d522d37ad603925e9997f3 ""
   "table.tex" 1731497730.59845 677 ea688e2c2b14c5e30eb9917b3ebf3155 ""
   "table_Skewness_kurtosis.tex" 1731498640.45563 232 6d5f9648ed19dcf16eebc4fc410491b8 ""
