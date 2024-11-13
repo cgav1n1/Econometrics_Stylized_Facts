@@ -206,6 +206,9 @@ INPUT ./Img/Autocorrelation.pdf
 INPUT ./Img/Autocorrelation.pdf
 INPUT ./Img/Autocorrelation.pdf
 INPUT ./Img/Autocorrelation.pdf
+INPUT ./table_Skewness_kurtosis.tex
+INPUT ./table_Skewness_kurtosis.tex
+INPUT table_Skewness_kurtosis.tex
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
