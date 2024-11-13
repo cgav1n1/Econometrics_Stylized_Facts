@@ -255,7 +255,7 @@ The QQ-plot provide graphical evidence that the tails of the daily returns distr
     \includegraphics[width=1\textwidth]{Img/qqplt_tstudents_AMZNdaily.pdf}
     \caption{Log returns $r_t := p_t - p_{t-1}$: \textbf{daily} “adjusted closing” of AMZN stock. 
     Sample: \textbf{01-21-1999} to \textbf{10-16-2024}. \textbf{QQ plot of Sample standardized quantiles} (0 mean and unit variance) \textbf{of daily log-returns against quantiles of standardized} (0 mean and unit variance) \textbf{Student-t distributions} with $\nu = 10$, 5, and 3 degrees of freedom.}
-    \label{fig:Hstogram_QQ_plot}
+    \label{fig:Hstogram_QQ_plot_T_student}
 \end{figure}
 \subsection{Gaussianity}
 TODO
@@ -296,13 +296,50 @@ So the test is respected and so for the Gaussianity.
 \begin{table}[h!]
     \centering
     \input{LB_BP.tex}  
-    \caption{Ljung-Box and Box-Pierce}
+    \caption{Ljung-Box and Box-Pierce daily}
     \label{tab:LB_BP}
 \end{table}
 \subsection{Volatility clustering and long range dependence of squared returns}
 TODO
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1\textwidth]{Img/Fact7_AbsoluteLogReturns.pdf}
+    \caption{Autocorrelations of the daily, weekly and monthly absolute log-returns $r_t$ from the “adjusted closing” of AMZN. Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.
+    The \textcolor{blue}{blue dotted} bands represents the confidence interval, $\frac{1}{\sqrt{T}}$ where T is the number of samples.}
+    \label{fig:atocorrelation_abs_logreturns}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{Img/Fact7_AMZN_rolling_stdev.pdf}
+    \caption{Rolling standard deviation from the “adjusted closing” of AMZN. Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.}
+    \label{fig:Rolling_std_dev_1}
+\end{figure}
+
+
+
 \subsection{Leverage effect}
-TODO
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{Img/Fact8.pdf}
+    \caption{Rolling standard deviation from the “adjusted closing” of AMZN. Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.}
+    \label{fig:Rolling_std_dev_2}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{Img/Fact8_2.pdf}
+    \caption{Rolling standard deviation from the “adjusted closing” of AMZN. Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.}
+    \label{fig:Rolling_std_dev_3}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{Img/Fact7_AMZN_rolling_stdev.pdf}
+    \caption{Rolling standard deviation from the “adjusted closing” of AMZN. Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.}
+    \label{fig:Rolling_std_dev}
+\end{figure}
 
 \appendix
 

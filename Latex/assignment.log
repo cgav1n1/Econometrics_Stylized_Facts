@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.30)  13 NOV 2024 17:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.30)  13 NOV 2024 21:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -311,11 +311,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 22.
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count305
 \l__pdf_internal_box=\box57
-) (./assignment.aux
-
-LaTeX Warning: Label `fig:Hstogram_QQ_plot' multiply defined.
-
-)
+) (./assignment.aux)
 \openout1 = `assignment.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
@@ -551,42 +547,90 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) ha
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.301 \end{table}
-                  <./Img/qqplt_tstudents_AMZNdaily.pdf> <./Img/lillie_test_AMZNannualy.pdf>] (/usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2024/02/21 1.10 listings language file
-) (./code_appendix.tex
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 5.
-LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <8> not available
-(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 7.
-) (./assignment.bbl) [5
+                  <./Img/qqplt_tstudents_AMZNdaily.pdf> <./Img/lillie_test_AMZNannualy.pdf>]
+<Img/Fact7_AbsoluteLogReturns.pdf, id=700, 1750.45398pt x 449.62857pt>
+File: Img/Fact7_AbsoluteLogReturns.pdf Graphic file (type pdf)
+<use Img/Fact7_AbsoluteLogReturns.pdf>
+Package pdftex.def Info: Img/Fact7_AbsoluteLogReturns.pdf  used on input line 306.
+(pdftex.def)             Requested size: 505.89pt x 129.943pt.
+<Img/Fact7_AMZN_rolling_stdev.pdf, id=701, 400.0458pt x 344.99333pt>
+File: Img/Fact7_AMZN_rolling_stdev.pdf Graphic file (type pdf)
+<use Img/Fact7_AMZN_rolling_stdev.pdf>
+Package pdftex.def Info: Img/Fact7_AMZN_rolling_stdev.pdf  used on input line 314.
+(pdftex.def)             Requested size: 252.94499pt x 218.14183pt.
+<Img/Fact8.pdf, id=702, 346.00517pt x 228.91899pt>
+File: Img/Fact8.pdf Graphic file (type pdf)
+<use Img/Fact8.pdf>
+Package pdftex.def Info: Img/Fact8.pdf  used on input line 325.
+(pdftex.def)             Requested size: 252.94499pt x 167.35048pt.
+ [5
 pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.333 \end{document}
-                    ] (./assignment.aux)
+l.329 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.12}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.329 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.329 
+       <./Img/Fact7_AbsoluteLogReturns.pdf> <./Img/Fact7_AMZN_rolling_stdev.pdf>]
+<Img/Fact8_2.pdf, id=788, 338.2236pt x 228.3732pt>
+File: Img/Fact8_2.pdf Graphic file (type pdf)
+<use Img/Fact8_2.pdf>
+Package pdftex.def Info: Img/Fact8_2.pdf  used on input line 332.
+(pdftex.def)             Requested size: 252.94499pt x 170.79161pt.
+File: Img/Fact7_AMZN_rolling_stdev.pdf Graphic file (type pdf)
+<use Img/Fact7_AMZN_rolling_stdev.pdf>
+Package pdftex.def Info: Img/Fact7_AMZN_rolling_stdev.pdf  used on input line 339.
+(pdftex.def)             Requested size: 252.94499pt x 218.14183pt.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2024/02/21 1.10 listings language file
+) (./code_appendix.tex
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 5.
+ [6
+pdfTeX warning (ext4): destination with the same identifier (name{figure.14}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.7 import 
+           numpy as np
+pdfTeX warning (ext4): destination with the same identifier (name{figure.15}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.7 import 
+           numpy as np
+pdfTeX warning (ext4): destination with the same identifier (name{figure.16}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.7 import 
+           numpy as np <./Img/Fact8.pdf> <./Img/Fact8_2.pdf>]
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <8> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 7.
+) (./assignment.bbl) [7] (./assignment.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `assignment.out' has not changed.
 (rerunfilecheck)             Checksum: D5ADB03D216FB8C10911856BA27C7E77;3832.
  ) 
 Here is how much of TeX's memory you used:
- 12347 strings out of 474116
- 187455 string characters out of 5743682
- 2004187 words of memory out of 5000000
- 34487 multiletter control sequences out of 15000+600000
+ 12388 strings out of 474116
+ 188601 string characters out of 5743682
+ 1999187 words of memory out of 5000000
+ 34521 multiletter control sequences out of 15000+600000
  564661 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,801b,1366s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,801b,2177s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on assignment.pdf (9 pages, 1061417 bytes).
+Output written on assignment.pdf (11 pages, 1195850 bytes).
 PDF statistics:
- 807 PDF objects out of 1000 (max. 8388607)
- 349 compressed objects within 4 object streams
- 65 named destinations out of 1000 (max. 500000)
- 240 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 946 PDF objects out of 1000 (max. 8388607)
+ 381 compressed objects within 4 object streams
+ 72 named destinations out of 1000 (max. 500000)
+ 260 words of extra memory for PDF output out of 10000 (max. 10000000)
 
