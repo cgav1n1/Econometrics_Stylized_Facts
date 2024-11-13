@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex assignment"] 1731512481.23576 "assignment.aux" "assignment.bbl" "assignment" 1731512482.27478 0
+["bibtex assignment"] 1731512481.23576 "assignment.aux" "assignment.bbl" "assignment" 1731513870.87396 0
   "./bibliography.bib" 1731426427.6345 478 735246bfe81366c588eff633a8db7f46 ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "assignment.aux" 1731512482.01445 9864 56b6fe45c5f54bc37f9298b8c4e83720 "pdflatex"
+  "assignment.aux" 1731513870.61046 9864 56b6fe45c5f54bc37f9298b8c4e83720 "pdflatex"
   (generated)
   "assignment.bbl"
   "assignment.blg"
   (rewritten before read)
-["pdflatex"] 1731512481.37488 "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" "assignment.pdf" "assignment" 1731512482.27496 0
+["pdflatex"] 1731513869.97262 "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" "assignment.pdf" "assignment" 1731513870.87409 0
   "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" 1731512479.83115 15312 9bba37bdcfae5fab441040dd233c8d5c ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -113,23 +113,23 @@
   "8stylized.tex" 1731507452.48412 1604 2e95532616a71d068d9dc95bd473c09b ""
   "Img/Autocorrel_daily_monthly.pdf" 1731507450.31415 16924 86fc7754b7373bc7b774b3e04554ba80 ""
   "Img/Daily_Log_Returns.pdf" 1731497775.66532 64832 c0dbae1966caa4f7cee7150676525bb1 ""
-  "Img/Fact3_2_rollskew.pdf" 1731485420.09202 46268 bbc66c6a811421bcb0734a9298e25901 ""
+  "Img/Fact3_2_rollskew.pdf" 1731513869.45898 46268 2a25998ac0173b8bea545ed4a1cdaef9 ""
   "Img/Laggedlog(p_t-1).pdf" 1731322337.9847 101710 acc6000d6a36b21c2f6b99c52a766c6b ""
-  "Img/MissingDates(2010_to_2011).pdf" 1731497730.83388 12032 dfcaf6b872637868e00e2c909bbea6a3 ""
+  "Img/MissingDates(2010_to_2011).pdf" 1731513869.46151 12038 40e0da831fbc5f8be87b08c1fcb9147e ""
   "Img/QQplot_daily_weekly_AMZN.pdf" 1731497782.73727 106386 dd7249de3c65895bd689e9ba9c6e3c27 ""
   "Img/lillie_test_AMZNannualy.pdf" 1731509260.48546 26941 6c57de780d1a3bfb08a90b65e7120733 ""
-  "Img/log_returns.pdf" 1731497732.50549 149016 5f1e64d1b17000e94f64f5e1d43cde58 ""
-  "Img/prices_time.pdf" 1731497731.46015 54871 6ede83ef99d6862e61ff464a751f0282 ""
+  "Img/log_returns.pdf" 1731513869.51952 149027 e4387befbc1b07ea5a26755115c661e0 ""
+  "Img/prices_time.pdf" 1731513869.51982 54940 4e4ab644d7e25dd35f8ee7658de36830 ""
   "Img/qqplt_tstudents_AMZNdaily.pdf" 1731497783.59532 223816 4bfc288a6fcbcc888cb931c76e2a3028 ""
-  "Img/squared_log_returns.pdf" 1731497733.08667 87651 c37e895c6b761bb7c5c854cf03fec497 ""
-  "LB_BP.tex" 1731512413.28101 492 97de9f515369f3d918e2fcdb202ebad5 ""
-  "assignment.aux" 1731512482.01445 9864 56b6fe45c5f54bc37f9298b8c4e83720 "pdflatex"
+  "Img/squared_log_returns.pdf" 1731513869.52015 87923 717d3e85c3bc635a7ceb03a6cf7433f3 ""
+  "LB_BP.tex" 1731512724.34209 492 97de9f515369f3d918e2fcdb202ebad5 ""
+  "assignment.aux" 1731513870.61046 9864 56b6fe45c5f54bc37f9298b8c4e83720 "pdflatex"
   "assignment.bbl" 1731512481.37107 368 3cc0c13b933970806c86c79628a70206 "bibtex assignment"
-  "assignment.out" 1731512482.01555 3832 d5adb03d216fb8c10911856ba27c7e77 "pdflatex"
+  "assignment.out" 1731513870.61135 3832 d5adb03d216fb8c10911856ba27c7e77 "pdflatex"
   "assignment.tex" 1731512479.83115 15312 9bba37bdcfae5fab441040dd233c8d5c ""
-  "assignment.toc" 1731512482.01575 1981 2fc3bc99bd42a5dbfc79a7f9f4dfe7d8 "pdflatex"
+  "assignment.toc" 1731513870.61154 1981 2fc3bc99bd42a5dbfc79a7f9f4dfe7d8 "pdflatex"
   "code_appendix.tex" 1731497732.02608 445 73e19eed10d522d37ad603925e9997f3 ""
-  "table.tex" 1731497730.59845 677 ea688e2c2b14c5e30eb9917b3ebf3155 ""
+  "table.tex" 1731513869.52276 685 052f5b74517466b23de859e43d9db6dc ""
   "table_Skewness_kurtosis.tex" 1731507452.60275 232 6d5f9648ed19dcf16eebc4fc410491b8 ""
   (generated)
   "assignment.aux"

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.30)  13 NOV 2024 16:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.30)  13 NOV 2024 17:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -402,16 +402,16 @@ Package hyperref Info: Link coloring ON on input line 33.
  [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./table.tex)
-<Img/MissingDates(2010_to_2011).pdf, id=154, 578.05965pt x 198.18912pt>
+<Img/MissingDates(2010_to_2011).pdf, id=154, 574.54652pt x 198.18912pt>
 File: Img/MissingDates(2010_to_2011).pdf Graphic file (type pdf)
 <use Img/MissingDates(2010_to_2011).pdf>
 Package pdftex.def Info: Img/MissingDates(2010_to_2011).pdf  used on input line 100.
-(pdftex.def)             Requested size: 404.71353pt x 138.76166pt.
-<Img/prices_time.pdf, id=156, 1076.73079pt x 352.98262pt>
+(pdftex.def)             Requested size: 404.71353pt x 139.60841pt.
+<Img/prices_time.pdf, id=156, 1076.91151pt x 352.0431pt>
 File: Img/prices_time.pdf Graphic file (type pdf)
 <use Img/prices_time.pdf>
 Package pdftex.def Info: Img/prices_time.pdf  used on input line 119.
-(pdftex.def)             Requested size: 505.89pt x 165.8426pt.
+(pdftex.def)             Requested size: 505.89pt x 165.37433pt.
  [1
 
 
@@ -425,16 +425,16 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has
                                                   \__shipout_drop_firstpage_...
 l.122 \end{figure}
                    <./Img/MissingDates(2010_to_2011).pdf>]
-<Img/log_returns.pdf, id=198, 1076.73079pt x 281.65213pt>
+<Img/log_returns.pdf, id=198, 1076.91151pt x 280.20673pt>
 File: Img/log_returns.pdf Graphic file (type pdf)
 <use Img/log_returns.pdf>
 Package pdftex.def Info: Img/log_returns.pdf  used on input line 132.
-(pdftex.def)             Requested size: 505.89pt x 132.32924pt.
-<Img/squared_log_returns.pdf, id=199, 715.41154pt x 280.27097pt>
+(pdftex.def)             Requested size: 505.89pt x 131.62877pt.
+<Img/squared_log_returns.pdf, id=199, 715.50185pt x 279.69283pt>
 File: Img/squared_log_returns.pdf Graphic file (type pdf)
 <use Img/squared_log_returns.pdf>
 Package pdftex.def Info: Img/squared_log_returns.pdf  used on input line 143.
-(pdftex.def)             Requested size: 404.71353pt x 158.5501pt.
+(pdftex.def)             Requested size: 404.71353pt x 158.2017pt.
  [2
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -583,7 +583,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  75i,12n,79p,801b,1366s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on assignment.pdf (9 pages, 1060871 bytes).
+Output written on assignment.pdf (9 pages, 1061417 bytes).
 PDF statistics:
  807 PDF objects out of 1000 (max. 8388607)
  349 compressed objects within 4 object streams
