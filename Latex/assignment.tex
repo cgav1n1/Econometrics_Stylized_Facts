@@ -171,9 +171,9 @@ relationship, indicating that Amazon's prices at time \( t \) are highly depende
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.6\textwidth]{Img/Autocorrelation.pdf}
-    \caption{Autocorrelations of daily Prices (1999-2024)}
-    \label{fig:Autocorrelations of daily Prices (1999-2024)}
+    \includegraphics[width=0.8\textwidth]{Img/Autocorrel_daily_monthly.pdf}
+    \caption{Autocorrelations of daily and monthly Prices (1999-2024)}
+    \label{fig:Autocorrelations_daily_monthly}
 \end{figure}
 
 \subsection{Returns are stationary}
@@ -182,12 +182,25 @@ TODO
 TODO
 \textbf{Stylized Fact 3: The distribution of returns is asymmetric and often negatively skewed}, reflecting the fact that the downturns of financial markets are often much steeper than the recoveries. Investors tend to react more strongly to negative news than to positive news.
 
-\begin{table}[H]
+\begin{figure}[H]
     \centering
-    \input{table_Skewness_kurtosis.tex}  
-    \caption{Skewness and kurtosis for $log$ returns}
-    \label{tab:skewness_kurtosis}
-\end{table}
+    \begin{minipage}{0.45\textwidth}
+        \begin{table}[H]
+            \centering
+            \input{table_Skewness_kurtosis.tex}  
+            \caption{Skewness and kurtosis for $log$ returns}
+            \label{tab:skewness_kurtosis}
+        \end{table}
+    \end{minipage}
+    \hspace{0.05\textwidth}
+    \begin{minipage}{0.45\textwidth}
+        \centering
+        \includegraphics[width=0.8\textwidth]{Img/Fact3_2_rollskew.pdf}
+        \caption{Rolling skewness}
+        \label{fig:Rolling_skewness}
+    \end{minipage}
+\end{figure}
+
 
 \subsection{Heavy tails}
 TODO
