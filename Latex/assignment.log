@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.30)  13 NOV 2024 14:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.30)  13 NOV 2024 15:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -311,7 +311,11 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 21.
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count305
 \l__pdf_internal_box=\box57
-) (./assignment.aux)
+) (./assignment.aux
+
+LaTeX Warning: Label `fig:Hstogram_QQ_plot' multiply defined.
+
+)
 \openout1 = `assignment.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
@@ -511,48 +515,73 @@ File: Img/QQplot_daily_weekly_AMZN.pdf Graphic file (type pdf)
 <use Img/QQplot_daily_weekly_AMZN.pdf>
 Package pdftex.def Info: Img/QQplot_daily_weekly_AMZN.pdf  used on input line 229.
 (pdftex.def)             Requested size: 303.53708pt x 201.61992pt.
+<Img/qqplt_tstudents_AMZNdaily.pdf, id=482, 1293.20457pt x 353.79051pt>
+File: Img/qqplt_tstudents_AMZNdaily.pdf Graphic file (type pdf)
+<use Img/qqplt_tstudents_AMZNdaily.pdf>
+Package pdftex.def Info: Img/qqplt_tstudents_AMZNdaily.pdf  used on input line 238.
+(pdftex.def)             Requested size: 505.89pt x 138.39882pt.
  [6
 pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.262 \subsection
-                 {Volatility clustering and long range dependence of squared...
+l.246 \subsubsection
+                    {High frequency non-Gaussianity}
 pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.262 \subsection
-                 {Volatility clustering and long range dependence of squared...
+l.246 \subsubsection
+                    {High frequency non-Gaussianity}
 pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.262 \subsection
-                 {Volatility clustering and long range dependence of squared... <./Img/Fact3_2_rollskew.pdf> <./Img/QQplot_daily_weekly_AMZN.pdf>] (/usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
+l.246 \subsubsection
+                    {High frequency non-Gaussianity}
+pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.246 \subsubsection
+                    {High frequency non-Gaussianity} <./Img/Fact3_2_rollskew.pdf> <./Img/QQplot_daily_weekly_AMZN.pdf> <./Img/qqplt_tstudents_AMZNdaily.pdf>]
+<Img/lillie_test_AMZNannualy.pdf, id=616, 723.28029pt x 382.61006pt>
+File: Img/lillie_test_AMZNannualy.pdf Graphic file (type pdf)
+<use Img/lillie_test_AMZNannualy.pdf>
+Package pdftex.def Info: Img/lillie_test_AMZNannualy.pdf  used on input line 269.
+(pdftex.def)             Requested size: 404.71353pt x 214.0967pt.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/02/21 1.10 listings language file
 ) (./code_appendix.tex
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 5.
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <8> not available
 (Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 7.
-) (./assignment.bbl) [7] (./assignment.aux)
+ [7
+pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.12     std_dev 
+                 = np.std(data) <./Img/lillie_test_AMZNannualy.pdf>]) (./assignment.bbl) [8] (./assignment.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `assignment.out' has not changed.
 (rerunfilecheck)             Checksum: D5ADB03D216FB8C10911856BA27C7E77;3832.
  ) 
 Here is how much of TeX's memory you used:
- 12318 strings out of 474116
- 186685 string characters out of 5743682
- 2000187 words of memory out of 5000000
- 34466 multiletter control sequences out of 15000+600000
+ 12336 strings out of 474116
+ 187325 string characters out of 5743682
+ 1999187 words of memory out of 5000000
+ 34481 multiletter control sequences out of 15000+600000
  564661 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,557b,1366s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,741b,2179s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on assignment.pdf (7 pages, 812608 bytes).
+Output written on assignment.pdf (8 pages, 1058813 bytes).
 PDF statistics:
- 679 PDF objects out of 1000 (max. 8388607)
- 325 compressed objects within 4 object streams
- 60 named destinations out of 1000 (max. 500000)
- 230 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 802 PDF objects out of 1000 (max. 8388607)
+ 345 compressed objects within 4 object streams
+ 63 named destinations out of 1000 (max. 500000)
+ 240 words of extra memory for PDF output out of 10000 (max. 10000000)
 

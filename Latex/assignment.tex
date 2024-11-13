@@ -231,10 +231,18 @@ TODO
     \label{fig:Hstogram_QQ_plot}
 \end{figure}
 
-\noindent Here, the QQ-Plots explicit clearly how our sample distinguishes from the normal distribution
-
+\noindent Here, the QQ-Plots explicit clearly how our sample distinguishes from the normal distribution. 
+The QQ-plot provide graphical evidence that the tails of the daily returns distributions are heavier than the tails of the normal distribution as: The points on the left of the graph which represent the lower quantiles (i.e. the points in the left tail of the empirical distribution) are below the blue line. The lower quantiles of the empirical distribution are much smaller than what you should expect from a Normal random variable with the same empirical mean and standard deviation of the sample the left tail of the empirical distribution is heavier than one of a Normal Distribution. similar conclusions for the right tail.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1\textwidth]{Img/qqplt_tstudents_AMZNdaily.pdf}
+    \caption{QQ-plots for $\nu = 10, 5 , 3$}
+    \label{fig:Hstogram_QQ_plot}
+\end{figure}
 \subsection{Gaussianity}
 TODO
+
+
 \subsubsection{High frequency non-Gaussianity}
 
 \noindent As the result in Table~\ref{tab:Stylized_facts_preview} 
@@ -253,10 +261,19 @@ Skewness is thus used as a measure of asymmetry of the distribution \( f_X(x) \)
 %we have \( \text{Skew} = 0 \). In these cases, all odd moments are zero:
 %\( \mu_r = E[(X - \mu)^3] = 0 \) for \( r = 3, 5, \dots \)
 
-\( \text{Skew}(r_t) > 0 \), then \( \mu > \text{median} \), where the median is the 50\% quantile of the distribution.
+\( \text{Skew}(r_t) > 0 \), then \( \mu > \text{median} \).
 
 \subsubsection{Aggregational Gaussianity}
-TODO
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{Img/lillie_test_AMZNannualy.pdf}
+    \caption{Log returns $r_t := p_t - p_{t-1}$: \textbf{annual} “adjusted closing” of S\&P500. 
+    Sample: 01-21-1999 to 10-16-2024. \textbf{Left panel}: empirical and Normal cdf's for the standardized annual returns of the S\&P500. \textbf{Right panel}: values of $\left| G_T(\tilde{r}_t) - \Phi(\tilde{r}_t, \hat{\mu}, \hat{\sigma}^2) \right|$ (blue line) and critical values for the Lilliefors test for the three significance levels 10\%, 5\% and 1\%.}
+    \label{fig:Lillie_test_weekly}
+\end{figure}
+
+\noindent The blue line is under the critical values lines, 
+So the test is respected and so for the Gaussianity.
 \subsection{Returns are not autocorrelated}
 TODO
 \subsection{Volatility clustering and long range dependence of squared returns}
