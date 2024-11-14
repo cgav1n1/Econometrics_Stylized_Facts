@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex assignment"] 1731616491.51948 "assignment.aux" "assignment.bbl" "assignment" 1731616492.95626 0
+["bibtex assignment"] 1731617270.35744 "assignment.aux" "assignment.bbl" "assignment" 1731617271.80487 0
   "./bibliography.bib" 1731583586.05349 1017 78fb745f22d2ecb785494014b3c92048 ""
   "/usr/local/texlive/2024/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "assignment.aux" 1731616492.64254 13563 9f61cee3255ec60034b5e954d906faa8 "pdflatex"
+  "assignment.aux" 1731617271.50706 13563 9f61cee3255ec60034b5e954d906faa8 "pdflatex"
   (generated)
   "assignment.bbl"
   "assignment.blg"
   (rewritten before read)
-["pdflatex"] 1731616491.61573 "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" "assignment.pdf" "assignment" 1731616492.95642 0
-  "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" 1731616489.7619 21421 495c5ea126fa05c17b4ec5a82b0dde76 ""
+["pdflatex"] 1731617270.46233 "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" "assignment.pdf" "assignment" 1731617271.80502 0
+  "/Users/paulprat/Documents/EDHEC/Cours/python/midterm/MidtermAssignment/MidtermAssignment/Latex/assignment.tex" 1731617268.68711 21722 f6a384324598eb6de6f0fcba6cdb96b9 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -129,11 +129,11 @@
   "Img/qqplt_tstudents_AMZNdaily.pdf" 1731608891.55396 224051 9b4c5c37499be20b8a99e327bf01e998 ""
   "LB_BP.tex" 1731609084.93238 597 8bf5b0f196bdd1797bcbabd8acd0cd2a ""
   "MidTermAssignmentwith8Facts.pdf" 1731599475.68691 1546874 2a53e3e31221477978d5ac1c2b1535b7 ""
-  "assignment.aux" 1731616492.64254 13563 9f61cee3255ec60034b5e954d906faa8 "pdflatex"
-  "assignment.bbl" 1731616491.61344 500 ef7ce468fecd657880114879ee29674c "bibtex assignment"
-  "assignment.out" 1731616492.64362 3397 2ba5a85e9efa4a59ef36b7513202e0aa "pdflatex"
-  "assignment.tex" 1731616489.7619 21421 495c5ea126fa05c17b4ec5a82b0dde76 ""
-  "assignment.toc" 1731616492.64398 1786 4ea7c858308a315e929867970d5e43a9 "pdflatex"
+  "assignment.aux" 1731617271.50706 13563 9f61cee3255ec60034b5e954d906faa8 "pdflatex"
+  "assignment.bbl" 1731617270.45975 500 ef7ce468fecd657880114879ee29674c "bibtex assignment"
+  "assignment.out" 1731617271.50847 3397 2ba5a85e9efa4a59ef36b7513202e0aa "pdflatex"
+  "assignment.tex" 1731617268.68711 21722 f6a384324598eb6de6f0fcba6cdb96b9 ""
+  "assignment.toc" 1731617271.50866 1786 4ea7c858308a315e929867970d5e43a9 "pdflatex"
   "table.tex" 1731608879.76647 684 eb88c46ddd35b7f40e73cda9a5a8a9e9 ""
   "table_Skewness_kurtosis.tex" 1731609084.80044 232 325b5c8d823a4fb5ea956c7bd1f9d076 ""
   (generated)
