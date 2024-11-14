@@ -288,25 +288,28 @@ fall below the blue line. This indicates that the lower quantiles of the empiric
 \subsubsection{High frequency non-Gaussianity}
 
 The aggregate gaussianity, states that lower frequency returns (monthly) tend to be Gaussian (symmetric about the mean) even if higher frequency returns (daily) are not. 
-To test this stylized fact we perform a Jarge-Bera test. The result is in Table~\ref{tab:Stylized_facts_preview}. \\
+To test this stylized fact we perform a Jarge-Bera test. The null hypothesis and its alternative are in the Table~\ref{tab:Stylized_facts_preview}.
 
-\noindent The 3\textsuperscript{rd} central moment is defined as
-$\mu_3 := E((X - m_1)^3).$ The skewness of \( r_t \) is defined as:
-\[
-\text{Skew}(r_t) := E \left[ \left( \frac{X - m_1}{\sigma} \right)^3 \right] = \frac{\mu_3}{\sigma^3} = \frac{\mu_3}{\mu_2^{3/2}}.
-\]
+%The aggregate gaussianity, states that lower frequency returns (monthly) tend to be Gaussian (symmetric about the mean) even if higher frequency returns (daily) are not. 
+%To test this stylized fact we perform a Jarge-Bera test. The result is in Table~\ref{tab:Stylized_facts_preview}. \\
 
-\noindent As the result in Table~\ref{tab:Stylized_facts_preview} 
-the skewness is positive for daily and monthly data, \( \text{Skew}(r_t) >0 \), large realizations of \( X \) are more often larger
-than the mean \( \mu \). 
-Skewness is thus used as a measure of asymmetry of the distribution \( f_X(x) \). Therefore:
+%\noindent The 3\textsuperscript{rd} central moment is defined as
+%$\mu_3 := E((X - m_1)^3).$ The skewness of \( r_t \) is defined as:
+%\[
+%\text{Skew}(r_t) := E \left[ \left( \frac{X - m_1}{\sigma} \right)^3 \right] = \frac{\mu_3}{\sigma^3} = \frac{\mu_3}{\mu_2^{3/2}}.
+%\]
+
+%\noindent As the result in Table~\ref{tab:Stylized_facts_preview} 
+%the skewness is positive for daily and monthly data, \( \text{Skew}(r_t) >0 \), large realizations of \( X \) are more often larger
+%than the mean \( \mu \). 
+%Skewness is thus used as a measure of asymmetry of the distribution \( f_X(x) \). Therefore:
  
-\( \text{Skew}(r_t) > 0 \), so the distribution is said to be \textbf{right skewed}. 
+%\( \text{Skew}(r_t) > 0 \), so the distribution is said to be \textbf{right skewed}. 
 %For symmetric distributions (e.g., Gaussian, t-Student, uniform), 
 %we have \( \text{Skew} = 0 \). In these cases, all odd moments are zero:
 %\( \mu_r = E[(X - \mu)^3] = 0 \) for \( r = 3, 5, \dots \)
 
-\( \text{Skew}(r_t) > 0 \), then \( \mu > \text{median} \).
+%\( \text{Skew}(r_t) > 0 \), then \( \mu > \text{median} \).
 
 \subsubsection{Aggregational Gaussianity}
 \begin{figure}[H]
@@ -396,13 +399,7 @@ with their impact being more noticeable at shorter frequencies (daily, weekly) t
 
 \subsection{Leverage effect}
 
-The leverage effect highlights the negative correlation between an asset's returns and its volatility. 
-Figure~\ref{fig:Rolling_std_dev_2} illustrates this phenomenon through cross-correlation values over time. 
-The graph clearly shows a strong cross-correlation between the returns $r_{t+j}$ and the squared returns $r_t^2$. 
-This is evidenced by most values exceeding the green dashed line, which marks the threshold for the rejection region in the significance test. 
-Notably, the majority of values after 2000 are negative, indicating a negative correlation between future returns $R_{t+j}$ and volatility $R^2$.
-
-
+The leverage effect demonstrates the negative correlation between an asset's returns and its volatility. Figure~\ref{fig:Rolling_std_dev_2} shows this effect through cross-correlation values over time. The graph highlights a strong correlation between the returns \( r_{t+j} \) and squared returns \( r_{t}^2 \) primarily at positive lags. This pattern indicates that future returns are influenced by current volatility, with most cross-correlation values exceeding the green dashed line, which marks the rejection region for statistical significance. Notably, these correlations primarily occur at positive lags, suggesting that returns are very responsive to past volatility variations.
 
 
 \begin{figure}[H]
@@ -417,7 +414,7 @@ Notably, the majority of values after 2000 are negative, indicating a negative c
     \begin{minipage}{0.46\textwidth}
         \centering
         \includegraphics[width=1\textwidth]{Img/Fact8.pdf}
-        \caption{Time series plot of \textcolor{blue}{AMZN} and \textcolor{orange}{VIX}. Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.}
+        \caption{Time series plot of \textcolor{blue}{AMZN} and \textcolor{red}{VIX}. Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.}
         \label{fig:Rolling_std_dev_3}
     \end{minipage}
     \centering
@@ -431,13 +428,10 @@ Notably, the majority of values after 2000 are negative, indicating a negative c
         \label{fig:Rolling_std_dev}
     \end{minipage}
 \end{figure}
-\noindent The comparison between Amazon's stock and the VIX (Volatility Index) in Figure 15 reveals a negative correlation between the stock and the index. 
-This effect is particularly pronounced during the 2008 financial crisis when volatility surged while Amazon's stock experienced a slight decline. 
-However, this correlation appears less evident during the dot-com bubble in the early 2000s, as Amazon maintained strong sales during that period. 
-Nonetheless, the chart reinforces the negative correlation between Amazon's returns and volatility, 
-consistent with the findings from Figure~\ref{fig:Rolling_std_dev_1}.
 
-\noindent Figure~\ref{fig:Rolling_std_dev} illustrates the relationship between Amazon's daily log returns and changes in the VIX over the period from January 21, 1999, to October 16, 2024. Each blue point represents a specific day, capturing the joint movement of Amazon's log returns and VIX changes. This scatter plot is consistent with the findings from Figure 11, which highlight a negative correlation between returns and volatility. The clustering of volatility around the OLS regression line further supports the presence of a correlation between Amazon's returns and its volatility.
+\noindent The comparison between Amazon's stock and the VIX (Volatility Index) in Figure~\ref{fig:Rolling_std_dev_3} reveals a negative correlation between the stock and the index. This effect is particularly pronounced during periods of high market volatility, such as the 2008 financial crisis, when the VIX spiked as Amazon's stock experienced a decline. However, this correlation appears less evident during the dot-com bubble, as Amazon maintained strong sales during that period. Overall, the chart reinforces the negative correlation between Amazon’s returns and volatility, consistent with the findings from Figure~\ref{fig:Rolling_std_dev_1}.
+
+\noindent Figure~\ref{fig:Rolling_std_dev} illustrates the relationship between Amazon's daily log returns and changes in the VIX over the study period. Each blue point represents a specific day, capturing the joint movement of Amazon’s log returns and VIX changes. This scatter plot aligns with the findings from Figure~\ref{fig:Rolling_std_dev_1}, highlighting a negative correlation between returns and volatility. The clustering of points around the OLS regression line further supports the presence of a negative correlation between Amazon’s returns and its volatility.
 
 
 \appendix

@@ -15,7 +15,7 @@
 \contentsline {subsection}{\numberline {4.5}Gaussianity}{6}{subsection.4.5}%
 \contentsline {subsubsection}{\numberline {4.5.1}High frequency non-Gaussianity}{6}{subsubsection.4.5.1}%
 \contentsline {subsubsection}{\numberline {4.5.2}Aggregational Gaussianity}{6}{subsubsection.4.5.2}%
-\contentsline {subsection}{\numberline {4.6}Returns are not autocorrelated}{7}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.6}Returns are not autocorrelated}{6}{subsection.4.6}%
 \contentsline {subsection}{\numberline {4.7}Volatility clustering and long range dependence of squared returns}{7}{subsection.4.7}%
 \contentsline {subsection}{\numberline {4.8}Leverage effect}{8}{subsection.4.8}%
 \contentsline {section}{\numberline {A}References}{9}{appendix.A}%
