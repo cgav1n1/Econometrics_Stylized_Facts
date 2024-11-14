@@ -108,14 +108,14 @@ By visualizing the dates of these gaps, we can easily detect any significant int
 \noindent We identified a total of 238 isolated days of data gaps per year across the 25-years range (6476 values). 
 Therefore, the data remains reliable for our stylized facts analysis. 
 The missing data points in our dataset are randomly distributed and account for 3.7\% of the total data. 
-According to scientific studies on data reliability for volatility testing, a dataset with up to 10% missing data is considered reliable for statistical testing.
+According to scientific studies on data reliability for volatility testing, a dataset with up to 10\% missing data is considered reliable for statistical testing.
 \cite{pumi2023longrange} 
 
 \section{First Results}
 
 \subsection{Prices Evolutions}
 
-With the accuracy and the reliability of our dataset confirmed, we begin by plotting the evolution of prices over 4 different periods : Daily, Weekly, Monthly and Yearly prices.
+With the accuracy and the reliability of our dataset confirmed, we begin by plotting the evolution of prices over 4 different fre : Daily, Weekly, Monthly and Yearly prices.
 
 \begin{figure}[H]
     \centering
@@ -246,11 +246,11 @@ contributing to greater volatility.
     \end{minipage}
 \end{figure}
 
-\noindent For this case, Table~\ref{tab:skewness_kurtosis} hilights that for daily returns the AMZN stock skewness is positive.
-This does not confirms stylized fact 3, this case is not really common but it means that the mean return is higher than the median of the sample \cite{albuquerque2012skewness}. 
-Then, Amazon investors tend to have steeper high turns than downturns and that investors of the AMZN stock react more positively to good news than they can react badly for negative news.
-If we take a look at the Rolling Skewness on simple returns Figure~\ref{fig:Rolling_skewness}, we clearly see that the skewness (for a 252 days interval) varies a lot depending the position of intervals and has already been very negative (Dec 2004) but is generally positive.
-\subsection{Heavy tails}
+\noindent For this case, Table~\ref{tab:skewness_kurtosis} highlights that the skewness of daily returns for AMZN stock is positive.
+This does not confirm stylized fact 3, as it is not very common; however, it indicates that the mean return is higher than the median of the sample \cite{albuquerque2012skewness}. 
+Consequently, Amazon investors tend to experience steeper upturns than downturns, and they react more positively to good news than they react negatively to bad news.
+Looking at the rolling skewness of simple returns in Figure~\ref{fig:Rolling_skewness}, we can clearly see that the skewness (calculated over a 252-day interval) 
+varies significantly depending on the interval, and has been very negative at times (e.g., December 2004) but is generally positive."
 \noindent As showcased in the Table~\ref{tab:skewness_kurtosis}, there is a large excess kurtosis
 
 \begin{figure}[H]
@@ -261,8 +261,11 @@ If we take a look at the Rolling Skewness on simple returns Figure~\ref{fig:Roll
     \label{fig:Hstogram_QQ_plot}
 \end{figure}
 
-\noindent Here, the QQ-Plots explicit clearly how our sample distinguishes from the normal distribution. 
-The QQ-plot provide graphical evidence that the tails of the daily returns distributions are heavier than the tails of the normal distribution as: The points on the left of the graph which represent the lower quantiles (i.e. the points in the left tail of the empirical distribution) are below the blue line. The lower quantiles of the empirical distribution are much smaller than what you should expect from a Normal random variable with the same empirical mean and standard deviation of the sample the left tail of the empirical distribution is heavier than one of a Normal Distribution. similar conclusions for the right tail.
+\noindent Here, the QQ-plots clearly illustrate how our sample differs from the normal distribution. 
+The QQ-plot provides graphical evidence that the tails of the daily returns distribution are heavier than those of the normal distribution, as follows: 
+the points on the left side of the graph, representing the lower quantiles (i.e., the left tail of the empirical distribution), 
+fall below the blue line. This indicates that the lower quantiles of the empirical distribution are much smaller than expected for a normal random variable with the same empirical mean and standard deviation. 
+
 \begin{figure}[H]
     \centering
     \includegraphics[width=1\textwidth]{Img/qqplt_tstudents_AMZNdaily.pdf}
@@ -403,7 +406,7 @@ consistent with the findings from Figure~\ref{fig:Rolling_std_dev_1}.
 
 
 \section{python code}
-Notebook starting next page
+Notebook starting next page.
 \includepdf[pages=-]{MidTermAssignmentwith8Facts.pdf}
 %\input{MidTermAssignmentwith8Facts.tex}
 
