@@ -42,10 +42,13 @@
 \clearpage
 
 % Start counting pages from here
-\pagenumbering{Roman} % Preliminary content with roman figures
+%\pagenumbering{Roman} % Preliminary content with roman figures
+\pagenumbering{arabic}
+\setcounter{page}{1}
 
 %first, introduction
 \section{Introduction}
+
 
 
 This document provides a comprehensive presentation of our results, 
@@ -136,22 +139,22 @@ as well as daily returns and their logarithmic equivalents.
     \label{fig:log_returns}
 \end{figure}
 
-\subsection{Squared Returns}
-
-To complete the analysis of daily price data, we also plot the daily squared returns and daily squared log returns, 
-(providing us a key insight on the volatile behavior on the potential stock risk of our data set.)
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=0.8\textwidth]{Img/squared_log_returns.pdf}
-    \caption{Squared daily returns $R_t^2$ and daily squared log returns $r_t^2$ of the AMZN stock.
-    Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.}
-    \label{fig:squared_logreturns}
-\end{figure}
+%\subsection{Squared Returns}
+%
+%To complete the analysis of daily price data, we also plot the daily squared returns and daily squared log returns, 
+%(providing us a key insight on the volatile behavior on the potential stock risk of our data set.)
+%\begin{figure}[H]
+%    \centering
+%    \includegraphics[width=0.8\textwidth]{Img/squared_log_returns.pdf}
+%    \caption{Squared daily returns $R_t^2$ and daily squared log returns $r_t^2$ of the AMZN stock.
+%    Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.}
+%    \label{fig:squared_logreturns}
+%\end{figure}
 
 \clearpage
 % Start main content with Arabic numbering from 1
-\pagenumbering{arabic}
-\setcounter{page}{1}
+%\pagenumbering{arabic}
+%\setcounter{page}{1}
 
 \section{Amazon and the 8 Stylized Facts}
 
