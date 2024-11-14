@@ -190,17 +190,19 @@ relationship, indicating that Amazon's prices at time \( t \) are highly depende
     \label{fig:Autocorrelations_daily_monthly}
 \end{figure}
 
+\noindent For the amzon daily and monthly prices time series, we expect to see large values of $\hat{\rho}_k$, i.e., near to 1, slowly decaying as $k$ increases this is the \textbf{long memory property}.
+Also, the \textbf{slowly decaying ACF} is often a symptom of non stationarity.
 \subsection{Returns are stationary}
 
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.5\textwidth]{Img/Daily_Log_Returns.pdf}
-    \caption{Daily log-returns (1999 - 2024)}
+    \caption{Daily Log-returns $r_t := p_t - p_{t-1}$: of the AMAZON stock.
+    Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.}
     \label{fig:Daily_log_returns}
 \end{figure}
 
-\noindent The graph Figure~\ref{fig:Daily_log_returns} illustrates the daily log-returns of Amazon's stock over a 25-year period, 
-from 1999 to 2024. $log$-returns are a common way to measure the percentage change in stock prices, 
+\noindent $Log$-returns are a common way to measure the percentage change in stock prices, 
 and they help assess the stability or stationarity of the returns over time. In a stationary series, we would expect the properties, 
 such as mean and variance, to remain constant over time. 
 However, here we observe significant differences in volatility across the timeline. \\
@@ -236,7 +238,10 @@ TODO
     \end{minipage}
 \end{figure}
 
-
+\noindent For this case, Table~\ref{tab:skewness_kurtosis} hilights that for daily returns the AMZN stock skewness is positive.
+This does not confirms stylized fact 3, this case is not really common but it means that the mean return is higher than the median of the sample \cite{albuquerque2012skewness}. 
+Then, Amazon investors tend to have steeper high turns than downturns and that investors of the AMZN stock react more positively to good news than they can react badly for negative news.
+If we take a look at the Rolling Skewness on simple returns Figure~\ref{fig:Rolling_skewness}, we clearly see that the skewness (for a 252 days interval) varies a lot depending the position of intervals and has already been very negative (Dec 2004) but is generally positive.
 \subsection{Heavy tails}
 \noindent As showcased in the Table~\ref{tab:skewness_kurtosis}, there is a large excess kurtosis
 
@@ -258,9 +263,6 @@ The QQ-plot provide graphical evidence that the tails of the daily returns distr
     \label{fig:Hstogram_QQ_plot_T_student}
 \end{figure}
 \subsection{Gaussianity}
-TODO
-
-
 \subsubsection{High frequency non-Gaussianity}
 
 \noindent As the result in Table~\ref{tab:Stylized_facts_preview} 
@@ -293,14 +295,21 @@ Skewness is thus used as a measure of asymmetry of the distribution \( f_X(x) \)
 \noindent The blue line is under the critical values lines, 
 So the test is respected and so for the Gaussianity.
 \subsection{Returns are not autocorrelated}
-\begin{table}[h!]
+
+Stylised fact 6 posits that returns are not autocorrelated. 
+Autocorrelation in a weakly stationary process measures the correlation between values of the process at different time points. 
+To assess the significance of autocorrelations, we apply the \textbf{Box-Pierce (BP)} test or the \textbf{Ljung-Box (LB)} test, 
+where the null hypothesis indicates that all autocorrelations are equal to 0, compared with the alternative analysis where it differs from 0.
+
+\begin{table}[H]
+
     \centering
     \input{LB_BP.tex}  
     \caption{Ljung-Box and Box-Pierce daily}
     \label{tab:LB_BP}
 \end{table}
+In Table~\ref{tab:LB_BP}, we observe that for each lag (1, 5, 15 and 25), the p-values for both the \textbf{Ljung-Box (L-B pval)} and \textbf{Box-Pierce} ($B-P pval$) tests exceed the \textbf{$0.048$ threshold}. This indicates that there is insufficient statistical evidence to reject the null hypothesis at each lag. Consequently, this suggests that the returns are not significantly autocorrelated across these time lags.
 \subsection{Volatility clustering and long range dependence of squared returns}
-
 
 Volatility clustering is a phenomenon where periods of high market volatility are often followed by high volatility, and vice versa. To capture and analyze this phenomenon, financial models such as ARCH (Autoregressive Conditional Heteroskedasticity) and GARCH are commonly used. We can easily perceive it on the graph below, (from december 2001 to december 2004) phase of low volatility.
 
@@ -337,21 +346,21 @@ with their impact being more noticeable at shorter frequencies (daily, weekly) t
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.5\textwidth]{Img/Fact8.pdf}
+    \includegraphics[width=0.5\textwidth]{Img/Fact8_CrossCorr_r_r2.pdf}
     \caption{Rolling standard deviation from the “adjusted closing” of AMZN. Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.}
     \label{fig:Rolling_std_dev_2}
 \end{figure}
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.5\textwidth]{Img/Fact8_2.pdf}
+    \includegraphics[width=0.5\textwidth]{Img/Fact8.pdf}
     \caption{Rolling standard deviation from the “adjusted closing” of AMZN. Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.}
     \label{fig:Rolling_std_dev_3}
 \end{figure}
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.5\textwidth]{Img/Fact7_AMZN_rolling_stdev.pdf}
+    \includegraphics[width=0.5\textwidth]{Img/Fact8_2.pdf}
     \caption{Rolling standard deviation from the “adjusted closing” of AMZN. Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.}
     \label{fig:Rolling_std_dev}
 \end{figure}

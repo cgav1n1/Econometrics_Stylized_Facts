@@ -247,6 +247,11 @@ INPUT ./Img/Fact7_AbsoluteLogReturns.pdf
 INPUT ./Img/Fact7_AbsoluteLogReturns.pdf
 INPUT ./Img/Fact7_AbsoluteLogReturns.pdf
 INPUT ./Img/Fact7_AbsoluteLogReturns.pdf
+INPUT ./Img/Fact8_CrossCorr_r_r2.pdf
+INPUT ./Img/Fact8_CrossCorr_r_r2.pdf
+INPUT ./Img/Fact8_CrossCorr_r_r2.pdf
+INPUT ./Img/Fact8_CrossCorr_r_r2.pdf
+INPUT ./Img/Fact8_CrossCorr_r_r2.pdf
 INPUT ./Img/Fact8.pdf
 INPUT ./Img/Fact8.pdf
 INPUT ./Img/Fact8.pdf
@@ -257,10 +262,6 @@ INPUT ./Img/Fact8_2.pdf
 INPUT ./Img/Fact8_2.pdf
 INPUT ./Img/Fact8_2.pdf
 INPUT ./Img/Fact8_2.pdf
-INPUT ./Img/Fact7_AMZN_rolling_stdev.pdf
-INPUT ./Img/Fact7_AMZN_rolling_stdev.pdf
-INPUT ./Img/Fact7_AMZN_rolling_stdev.pdf
-INPUT ./Img/Fact7_AMZN_rolling_stdev.pdf
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty

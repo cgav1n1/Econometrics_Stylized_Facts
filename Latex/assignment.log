@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.30)  14 NOV 2024 10:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.30)  14 NOV 2024 12:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -478,138 +478,139 @@ l.192
 <Img/Daily_Log_Returns.pdf, id=394, 619.66823pt x 425.49394pt>
 File: Img/Daily_Log_Returns.pdf Graphic file (type pdf)
 <use Img/Daily_Log_Returns.pdf>
-Package pdftex.def Info: Img/Daily_Log_Returns.pdf  used on input line 197.
+Package pdftex.def Info: Img/Daily_Log_Returns.pdf  used on input line 199.
 (pdftex.def)             Requested size: 252.94499pt x 173.68103pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 202--207
+Underfull \hbox (badness 10000) in paragraph at lines 205--209
 
  []
 
 (./table_Skewness_kurtosis.tex)
-Overfull \hbox (15.2405pt too wide) in paragraph at lines 1--225
+Overfull \hbox (15.2405pt too wide) in paragraph at lines 1--227
  [][] 
  []
 
-<Img/Fact3_2_rollskew.pdf, id=396, 408.45221pt x 344.99333pt>
+<Img/Fact3_2_rollskew.pdf, id=395, 408.45221pt x 344.99333pt>
 File: Img/Fact3_2_rollskew.pdf Graphic file (type pdf)
 <use Img/Fact3_2_rollskew.pdf>
-Package pdftex.def Info: Img/Fact3_2_rollskew.pdf  used on input line 232.
+Package pdftex.def Info: Img/Fact3_2_rollskew.pdf  used on input line 234.
 (pdftex.def)             Requested size: 182.11984pt x 153.8295pt.
 [2
 pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.238 
+l.240 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.238 
+l.240 
        <./Img/Autocorrel_daily_monthly.pdf> <./Img/Daily_Log_Returns.pdf>]
-<Img/QQplot_daily_weekly_AMZN.pdf, id=485, 859.05775pt x 570.60051pt>
+<Img/QQplot_daily_weekly_AMZN.pdf, id=487, 859.05775pt x 570.60051pt>
 File: Img/QQplot_daily_weekly_AMZN.pdf Graphic file (type pdf)
 <use Img/QQplot_daily_weekly_AMZN.pdf>
-Package pdftex.def Info: Img/QQplot_daily_weekly_AMZN.pdf  used on input line 245.
+Package pdftex.def Info: Img/QQplot_daily_weekly_AMZN.pdf  used on input line 250.
 (pdftex.def)             Requested size: 303.53708pt x 201.61992pt.
-<Img/qqplt_tstudents_AMZNdaily.pdf, id=486, 1293.20457pt x 353.79051pt>
+<Img/qqplt_tstudents_AMZNdaily.pdf, id=488, 1293.20457pt x 353.79051pt>
 File: Img/qqplt_tstudents_AMZNdaily.pdf Graphic file (type pdf)
 <use Img/qqplt_tstudents_AMZNdaily.pdf>
-Package pdftex.def Info: Img/qqplt_tstudents_AMZNdaily.pdf  used on input line 255.
+Package pdftex.def Info: Img/qqplt_tstudents_AMZNdaily.pdf  used on input line 260.
 (pdftex.def)             Requested size: 505.89pt x 138.39882pt.
  [3
 pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.260 \subsection
+l.265 \subsection
                  {Gaussianity}
 pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.260 \subsection
+l.265 \subsection
                  {Gaussianity}
 pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.260 \subsection
+l.265 \subsection
                  {Gaussianity} <./Img/Fact3_2_rollskew.pdf> <./Img/QQplot_daily_weekly_AMZN.pdf>]
-<Img/lillie_test_AMZNannualy.pdf, id=577, 723.28029pt x 382.61006pt>
+<Img/lillie_test_AMZNannualy.pdf, id=580, 723.28029pt x 382.61006pt>
 File: Img/lillie_test_AMZNannualy.pdf Graphic file (type pdf)
 <use Img/lillie_test_AMZNannualy.pdf>
-Package pdftex.def Info: Img/lillie_test_AMZNannualy.pdf  used on input line 287.
+Package pdftex.def Info: Img/lillie_test_AMZNannualy.pdf  used on input line 289.
 (pdftex.def)             Requested size: 404.71353pt x 214.0967pt.
- (./LB_BP.tex) [4
+ [4
 pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.301 \end{table}
-                 
+l.303 
+      
 pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.301 \end{table}
-                  <./Img/qqplt_tstudents_AMZNdaily.pdf> <./Img/lillie_test_AMZNannualy.pdf>]
-<Img/Fact7_AMZN_rolling_stdev.pdf, id=698, 400.0458pt x 344.99333pt>
+l.303 
+       <./Img/qqplt_tstudents_AMZNdaily.pdf> <./Img/lillie_test_AMZNannualy.pdf>] (./LB_BP.tex)
+<Img/Fact7_AMZN_rolling_stdev.pdf, id=702, 400.0458pt x 344.99333pt>
 File: Img/Fact7_AMZN_rolling_stdev.pdf Graphic file (type pdf)
 <use Img/Fact7_AMZN_rolling_stdev.pdf>
-Package pdftex.def Info: Img/Fact7_AMZN_rolling_stdev.pdf  used on input line 309.
+Package pdftex.def Info: Img/Fact7_AMZN_rolling_stdev.pdf  used on input line 318.
 (pdftex.def)             Requested size: 252.94499pt x 218.14183pt.
-<Img/Fact7_AbsoluteLogReturns.pdf, id=699, 1750.45398pt x 393.98067pt>
+<Img/Fact7_AbsoluteLogReturns.pdf, id=703, 1750.45398pt x 393.98067pt>
 File: Img/Fact7_AbsoluteLogReturns.pdf Graphic file (type pdf)
 <use Img/Fact7_AbsoluteLogReturns.pdf>
-Package pdftex.def Info: Img/Fact7_AbsoluteLogReturns.pdf  used on input line 322.
+Package pdftex.def Info: Img/Fact7_AbsoluteLogReturns.pdf  used on input line 331.
 (pdftex.def)             Requested size: 505.89pt x 113.8607pt.
  [5
 pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.336 \subsection
-                 {Leverage effect}
+l.336 
+      
 pdfTeX warning (ext4): destination with the same identifier (name{figure.12}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.336 \subsection
-                 {Leverage effect}
+l.336 
+       <./Img/Fact7_AMZN_rolling_stdev.pdf>]
+<Img/Fact8_CrossCorr_r_r2.pdf, id=746, 346.00517pt x 228.91899pt>
+File: Img/Fact8_CrossCorr_r_r2.pdf Graphic file (type pdf)
+<use Img/Fact8_CrossCorr_r_r2.pdf>
+Package pdftex.def Info: Img/Fact8_CrossCorr_r_r2.pdf  used on input line 349.
+(pdftex.def)             Requested size: 252.94499pt x 167.35048pt.
+<Img/Fact8.pdf, id=747, 648.2619pt x 258.7266pt>
+File: Img/Fact8.pdf Graphic file (type pdf)
+<use Img/Fact8.pdf>
+Package pdftex.def Info: Img/Fact8.pdf  used on input line 356.
+(pdftex.def)             Requested size: 252.94499pt x 100.95032pt.
+<Img/Fact8_2.pdf, id=749, 338.2236pt x 228.3732pt>
+File: Img/Fact8_2.pdf Graphic file (type pdf)
+<use Img/Fact8_2.pdf>
+Package pdftex.def Info: Img/Fact8_2.pdf  used on input line 363.
+(pdftex.def)             Requested size: 252.94499pt x 170.79161pt.
+ [6
 pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.336 \subsection
-                 {Leverage effect} <./Img/Fact7_AMZN_rolling_stdev.pdf> <./Img/Fact7_AbsoluteLogReturns.pdf>]
-<Img/Fact8.pdf, id=785, 648.2619pt x 258.7266pt>
-File: Img/Fact8.pdf Graphic file (type pdf)
-<use Img/Fact8.pdf>
-Package pdftex.def Info: Img/Fact8.pdf  used on input line 340.
-(pdftex.def)             Requested size: 252.94499pt x 100.95032pt.
-<Img/Fact8_2.pdf, id=787, 338.2236pt x 228.3732pt>
-File: Img/Fact8_2.pdf Graphic file (type pdf)
-<use Img/Fact8_2.pdf>
-Package pdftex.def Info: Img/Fact8_2.pdf  used on input line 347.
-(pdftex.def)             Requested size: 252.94499pt x 170.79161pt.
-File: Img/Fact7_AMZN_rolling_stdev.pdf Graphic file (type pdf)
-<use Img/Fact7_AMZN_rolling_stdev.pdf>
-Package pdftex.def Info: Img/Fact7_AMZN_rolling_stdev.pdf  used on input line 354.
-(pdftex.def)             Requested size: 252.94499pt x 218.14183pt.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
+l.367 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.14}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.367 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.15}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.367 
+       <./Img/Fact7_AbsoluteLogReturns.pdf> <./Img/Fact8_CrossCorr_r_r2.pdf> <./Img/Fact8.pdf>] (/usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/02/21 1.10 listings language file
 ) (./code_appendix.tex
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 5.
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <8> not available
 (Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 7.
- [6
-pdfTeX warning (ext4): destination with the same identifier (name{figure.14}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.10 def 
-         analyze_data(data):
-pdfTeX warning (ext4): destination with the same identifier (name{figure.15}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.10 def 
-         analyze_data(data):
+) (./assignment.bbl) [7
 pdfTeX warning (ext4): destination with the same identifier (name{figure.16}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.10 def 
-         analyze_data(data): <./Img/Fact8.pdf> <./Img/Fact8_2.pdf>]) (./assignment.bbl) [7] (./assignment.aux)
+l.394 \end{document}
+                     <./Img/Fact8_2.pdf>] (./assignment.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -618,18 +619,18 @@ Package rerunfilecheck Info: File `assignment.out' has not changed.
 (rerunfilecheck)             Checksum: D5ADB03D216FB8C10911856BA27C7E77;3832.
  ) 
 Here is how much of TeX's memory you used:
- 12388 strings out of 474116
- 188601 string characters out of 5743682
- 1988187 words of memory out of 5000000
- 34521 multiletter control sequences out of 15000+600000
+ 12397 strings out of 474116
+ 188922 string characters out of 5743682
+ 2001187 words of memory out of 5000000
+ 34529 multiletter control sequences out of 15000+600000
  564661 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,801b,2179s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,801b,1366s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on assignment.pdf (11 pages, 1225703 bytes).
+Output written on assignment.pdf (11 pages, 1242948 bytes).
 PDF statistics:
- 904 PDF objects out of 1000 (max. 8388607)
- 372 compressed objects within 4 object streams
- 72 named destinations out of 1000 (max. 500000)
- 260 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 952 PDF objects out of 1000 (max. 8388607)
+ 387 compressed objects within 4 object streams
+ 73 named destinations out of 1000 (max. 500000)
+ 265 words of extra memory for PDF output out of 10000 (max. 10000000)
 
