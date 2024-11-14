@@ -194,7 +194,7 @@ relationship, indicating that Amazon's prices at time \( t \) are highly depende
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.6\textwidth]{Img/Daily_Log_Returns.pdf}
+    \includegraphics[width=0.5\textwidth]{Img/Daily_Log_Returns.pdf}
     \caption{Daily log-returns (1999 - 2024)}
     \label{fig:Daily_log_returns}
 \end{figure}
@@ -300,14 +300,9 @@ So the test is respected and so for the Gaussianity.
     \label{tab:LB_BP}
 \end{table}
 \subsection{Volatility clustering and long range dependence of squared returns}
-TODO
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=1\textwidth]{Img/Fact7_AbsoluteLogReturns.pdf}
-    \caption{Autocorrelations of the daily, weekly and monthly absolute log-returns $r_t$ from the “adjusted closing” of AMZN. Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.
-    The \textcolor{blue}{blue dotted} bands represents the confidence interval, $\frac{1}{\sqrt{T}}$ where T is the number of samples.}
-    \label{fig:atocorrelation_abs_logreturns}
-\end{figure}
+
+
+Volatility clustering is a phenomenon where periods of high market volatility are often followed by high volatility, and vice versa. To capture and analyze this phenomenon, financial models such as ARCH (Autoregressive Conditional Heteroskedasticity) and GARCH are commonly used. We can easily perceive it on the graph below, (from december 2001 to december 2004) phase of low volatility.
 
 \begin{figure}[H]
     \centering
@@ -316,7 +311,27 @@ TODO
     \label{fig:Rolling_std_dev_1}
 \end{figure}
 
+\noindent This persistence in the autocorrelation of squared returns reflects volatility clustering. 
+High volatility often persists over time before settling into a lower volatility regime; 
+this is how time dependance is reflected.
 
+
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1\textwidth]{Img/Fact7_AbsoluteLogReturns.pdf}
+    \caption{Autocorrelations of the daily, weekly and monthly absolute log-returns $r_t$ from the “adjusted closing” of AMZN. Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.
+    The \textcolor{blue}{blue dotted} bands represents the confidence intervals (\textbf{Barlett intervals}), $\frac{1}{\sqrt{T}}$ where T is the number of samples.}
+    \label{fig:atocorrelation_abs_logreturns}
+\end{figure}
+
+\noindent We observe that the autocorrelation is continuous, as indicated by the trendline, 
+which aligns with the previous graph. 
+Additionally, it becomes apparent that as the time interval changes (from daily to weekly, monthly, and annually) 
+the autocorrelation becomes more pronounced between intervals. 
+This aligns with the volatility clustering phenomenon discussed earlier. 
+This effect occurs because ARCH and GARCH models are sensitive to sampling frequency, 
+with their impact being more noticeable at shorter frequencies (daily, weekly) than at longer ones (monthly, annually).
 
 \subsection{Leverage effect}
 
