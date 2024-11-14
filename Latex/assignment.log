@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.30)  14 NOV 2024 21:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.30)  14 NOV 2024 22:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -441,12 +441,12 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
  [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./table.tex)
-<Img/MissingDates(2010_to_2011).pdf, id=142, 578.05965pt x 198.18912pt>
+<Img/MissingDates(2010_to_2011).pdf, id=148, 578.05965pt x 198.18912pt>
 File: Img/MissingDates(2010_to_2011).pdf Graphic file (type pdf)
 <use Img/MissingDates(2010_to_2011).pdf>
 Package pdftex.def Info: Img/MissingDates(2010_to_2011).pdf  used on input line 103.
 (pdftex.def)             Requested size: 404.71353pt x 138.76166pt.
-<Img/prices_time.pdf, id=144, 1076.73079pt x 352.98262pt>
+<Img/prices_time.pdf, id=150, 1076.73079pt x 352.98262pt>
 File: Img/prices_time.pdf Graphic file (type pdf)
 <use Img/prices_time.pdf>
 Package pdftex.def Info: Img/prices_time.pdf  used on input line 122.
@@ -464,7 +464,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has
                                                   \__shipout_drop_firstpage_...
 l.126 \end{figure}
                    <./Img/MissingDates(2010_to_2011).pdf>]
-<Img/log_returns.pdf, id=186, 1076.73079pt x 281.65213pt>
+<Img/log_returns.pdf, id=192, 1076.73079pt x 281.65213pt>
 File: Img/log_returns.pdf Graphic file (type pdf)
 <use Img/log_returns.pdf>
 Package pdftex.def Info: Img/log_returns.pdf  used on input line 136.
@@ -485,12 +485,12 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 (hyperref)                than one, level fixed on input line 161.
 
 (./8stylized.tex)
-<Img/Laggedlog(p_t-1).pdf, id=285, 409.78532pt x 329.41455pt>
+<Img/Laggedlog(p_t-1).pdf, id=291, 409.78532pt x 329.41455pt>
 File: Img/Laggedlog(p_t-1).pdf Graphic file (type pdf)
 <use Img/Laggedlog(p_t-1).pdf>
 Package pdftex.def Info: Img/Laggedlog(p_t-1).pdf  used on input line 182.
 (pdftex.def)             Requested size: 252.94499pt x 203.33517pt.
-<Img/Autocorrel_daily_monthly.pdf, id=287, 1059.33585pt x 393.98067pt>
+<Img/Autocorrel_daily_monthly.pdf, id=293, 1059.33585pt x 393.98067pt>
 File: Img/Autocorrel_daily_monthly.pdf Graphic file (type pdf)
 <use Img/Autocorrel_daily_monthly.pdf>
 Package pdftex.def Info: Img/Autocorrel_daily_monthly.pdf  used on input line 196.
@@ -508,7 +508,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has
                                                   \__shipout_drop_firstpage_...
 l.202 
        <./Img/Laggedlog(p_t-1).pdf>]
-<Img/Daily_Log_Returns.pdf, id=335, 619.66823pt x 425.49394pt>
+<Img/Daily_Log_Returns.pdf, id=341, 619.66823pt x 425.49394pt>
 File: Img/Daily_Log_Returns.pdf Graphic file (type pdf)
 <use Img/Daily_Log_Returns.pdf>
 Package pdftex.def Info: Img/Daily_Log_Returns.pdf  used on input line 209.
@@ -523,11 +523,11 @@ Overfull \hbox (15.2405pt too wide) in paragraph at lines 1--244
  [][] 
  []
 
-<Img/Fact3_2_rollskew.pdf, id=336, 408.45221pt x 344.99333pt>
+<Img/Fact3_2_rollskew.pdf, id=342, 408.45221pt x 344.99333pt>
 File: Img/Fact3_2_rollskew.pdf Graphic file (type pdf)
 <use Img/Fact3_2_rollskew.pdf>
 Package pdftex.def Info: Img/Fact3_2_rollskew.pdf  used on input line 251.
-(pdftex.def)             Requested size: 182.11984pt x 153.8295pt.
+(pdftex.def)             Requested size: 159.35356pt x 134.59949pt.
 [4
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -539,1083 +539,1100 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has
                                                   \__shipout_drop_firstpage_...
 l.257 
        <./Img/Autocorrel_daily_monthly.pdf> <./Img/Daily_Log_Returns.pdf>]
-<Img/QQplot_daily_weekly_AMZN.pdf, id=428, 859.05763pt x 570.60051pt>
+<Img/QQplot_daily_weekly_AMZN.pdf, id=434, 859.05763pt x 570.60051pt>
 File: Img/QQplot_daily_weekly_AMZN.pdf Graphic file (type pdf)
 <use Img/QQplot_daily_weekly_AMZN.pdf>
-Package pdftex.def Info: Img/QQplot_daily_weekly_AMZN.pdf  used on input line 267.
+Package pdftex.def Info: Img/QQplot_daily_weekly_AMZN.pdf  used on input line 269.
 (pdftex.def)             Requested size: 303.53708pt x 201.61992pt.
-<Img/qqplt_tstudents_AMZNdaily.pdf, id=429, 1293.20457pt x 353.79051pt>
+<Img/qqplt_tstudents_AMZNdaily.pdf, id=435, 1293.20457pt x 353.79051pt>
 File: Img/qqplt_tstudents_AMZNdaily.pdf Graphic file (type pdf)
 <use Img/qqplt_tstudents_AMZNdaily.pdf>
-Package pdftex.def Info: Img/qqplt_tstudents_AMZNdaily.pdf  used on input line 280.
+Package pdftex.def Info: Img/qqplt_tstudents_AMZNdaily.pdf  used on input line 282.
 (pdftex.def)             Requested size: 505.89pt x 138.39882pt.
  [5
 pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.285 \subsection
+l.287 \subsection
                  {Gaussianity}
 pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.285 \subsection
+l.287 \subsection
                  {Gaussianity}
 pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.285 \subsection
+l.287 \subsection
                  {Gaussianity} <./Img/Fact3_2_rollskew.pdf> <./Img/QQplot_daily_weekly_AMZN.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 288--290
+Underfull \hbox (badness 10000) in paragraph at lines 290--292
 
  []
 
-<Img/lillie_test_AMZNannualy.pdf, id=519, 723.28029pt x 382.61006pt>
+<Img/lillie_test_AMZNannualy.pdf, id=525, 723.28029pt x 382.61006pt>
 File: Img/lillie_test_AMZNannualy.pdf Graphic file (type pdf)
 <use Img/lillie_test_AMZNannualy.pdf>
-Package pdftex.def Info: Img/lillie_test_AMZNannualy.pdf  used on input line 312.
+Package pdftex.def Info: Img/lillie_test_AMZNannualy.pdf  used on input line 314.
 (pdftex.def)             Requested size: 404.71353pt x 214.0967pt.
 [6
 pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.320 \subsection
+l.322 \subsection
                  {Returns are not autocorrelated}
 pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.320 \subsection
-                 {Returns are not autocorrelated} <./Img/qqplt_tstudents_AMZNdaily.pdf> <./Img/lillie_test_AMZNannualy.pdf>] (./LB_BP.tex)
-<Img/Fact7_AMZN_rolling_stdev.pdf, id=643, 400.0458pt x 344.99333pt>
+l.322 \subsection
+                 {Returns are not autocorrelated} <./Img/qqplt_tstudents_AMZNdaily.pdf> <./Img/lillie_test_AMZNannualy.pdf>]
+<Img/Fact6_ACFLogReturns.pdf, id=648, 1293.17381pt x 426.0605pt>
+File: Img/Fact6_ACFLogReturns.pdf Graphic file (type pdf)
+<use Img/Fact6_ACFLogReturns.pdf>
+Package pdftex.def Info: Img/Fact6_ACFLogReturns.pdf  used on input line 329.
+(pdftex.def)             Requested size: 455.2979pt x 150.00757pt.
+ (./LB_BP_daily.tex) (./LB_BP_monthly.tex)
+<Img/Fact7_AMZN_rolling_stdev.pdf, id=649, 400.0458pt x 344.99333pt>
 File: Img/Fact7_AMZN_rolling_stdev.pdf Graphic file (type pdf)
 <use Img/Fact7_AMZN_rolling_stdev.pdf>
-Package pdftex.def Info: Img/Fact7_AMZN_rolling_stdev.pdf  used on input line 341.
-(pdftex.def)             Requested size: 252.94499pt x 218.14183pt.
-<Img/Fact7_AbsoluteLogReturns.pdf, id=644, 1750.45398pt x 393.98067pt>
-File: Img/Fact7_AbsoluteLogReturns.pdf Graphic file (type pdf)
-<use Img/Fact7_AbsoluteLogReturns.pdf>
-Package pdftex.def Info: Img/Fact7_AbsoluteLogReturns.pdf  used on input line 354.
-(pdftex.def)             Requested size: 505.89pt x 113.8607pt.
+Package pdftex.def Info: Img/Fact7_AMZN_rolling_stdev.pdf  used on input line 370.
+(pdftex.def)             Requested size: 202.3529pt x 174.50714pt.
  [7
-pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.359 
-      
 pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.359 
-       <./Img/Fact7_AMZN_rolling_stdev.pdf>]
-<Img/Fact8_CrossCorr_r_r2.pdf, id=688, 352.38838pt x 228.91899pt>
+l.374 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.374 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{table.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.374 
+       <./Img/Fact6_ACFLogReturns.pdf>]
+<Img/Fact7_AbsoluteLogReturns.pdf, id=699, 1750.45398pt x 393.98067pt>
+File: Img/Fact7_AbsoluteLogReturns.pdf Graphic file (type pdf)
+<use Img/Fact7_AbsoluteLogReturns.pdf>
+Package pdftex.def Info: Img/Fact7_AbsoluteLogReturns.pdf  used on input line 383.
+(pdftex.def)             Requested size: 505.89pt x 113.8607pt.
+<Img/Fact8_CrossCorr_r_r2.pdf, id=701, 352.38838pt x 228.91899pt>
 File: Img/Fact8_CrossCorr_r_r2.pdf Graphic file (type pdf)
 <use Img/Fact8_CrossCorr_r_r2.pdf>
-Package pdftex.def Info: Img/Fact8_CrossCorr_r_r2.pdf  used on input line 381.
+Package pdftex.def Info: Img/Fact8_CrossCorr_r_r2.pdf  used on input line 410.
 (pdftex.def)             Requested size: 252.94499pt x 164.32202pt.
-<Img/Fact8.pdf, id=689, 648.2619pt x 258.7266pt>
-File: Img/Fact8.pdf Graphic file (type pdf)
-<use Img/Fact8.pdf>
-Package pdftex.def Info: Img/Fact8.pdf  used on input line 390.
-(pdftex.def)             Requested size: 232.71278pt x 92.87698pt.
-<Img/Fact_8_3AMZN_.pdf, id=691, 337.92711pt x 227.03696pt>
-File: Img/Fact_8_3AMZN_.pdf Graphic file (type pdf)
-<use Img/Fact_8_3AMZN_.pdf>
-Package pdftex.def Info: Img/Fact_8_3AMZN_.pdf  used on input line 398.
-(pdftex.def)             Requested size: 186.17093pt x 125.07855pt.
  [8
 pdfTeX warning (ext4): destination with the same identifier (name{figure.12}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.405 \noindent
-                The comparison between Amazon's stock and the VIX (Volatilit...
+l.415 
+      
 pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.405 \noindent
-                The comparison between Amazon's stock and the VIX (Volatilit... <./Img/Fact7_AbsoluteLogReturns.pdf> <./Img/Fact8_CrossCorr_r_r2.pdf>] (./assignment.bbl)
-<MidTermAssignmentwith8Facts.pdf, id=782, 614.295pt x 794.97pt>
+l.415 
+       <./Img/Fact7_AMZN_rolling_stdev.pdf> <./Img/Fact7_AbsoluteLogReturns.pdf>]
+<Img/Fact8.pdf, id=787, 648.2619pt x 258.7266pt>
+File: Img/Fact8.pdf Graphic file (type pdf)
+<use Img/Fact8.pdf>
+Package pdftex.def Info: Img/Fact8.pdf  used on input line 419.
+(pdftex.def)             Requested size: 232.71278pt x 92.87698pt.
+<Img/Fact_8_3AMZN_.pdf, id=789, 337.92711pt x 227.03696pt>
+File: Img/Fact_8_3AMZN_.pdf Graphic file (type pdf)
+<use Img/Fact_8_3AMZN_.pdf>
+Package pdftex.def Info: Img/Fact_8_3AMZN_.pdf  used on input line 427.
+(pdftex.def)             Requested size: 186.17093pt x 125.07855pt.
+ (./assignment.bbl)
+<MidTermAssignmentwith8Facts.pdf, id=792, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf  used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf  used on input line 452.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf  used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf  used on input line 452.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<MidTermAssignmentwith8Facts.pdf, id=785, page=1, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=795, page=1, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 1>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page1 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page1 used on input line 452.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 1>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page1 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page1 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [9
 pdfTeX warning (ext4): destination with the same identifier (name{figure.14}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.419 ...pages=-]{MidTermAssignmentwith8Facts.pdf}
+l.452 ...pages=-]{MidTermAssignmentwith8Facts.pdf}
                                                   
 pdfTeX warning (ext4): destination with the same identifier (name{figure.15}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.419 ...pages=-]{MidTermAssignmentwith8Facts.pdf}
-                                                   <./Img/Fact8.pdf> <./Img/Fact_8_3AMZN_.pdf>]
+l.452 ...pages=-]{MidTermAssignmentwith8Facts.pdf}
+                                                  
+pdfTeX warning (ext4): destination with the same identifier (name{figure.16}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.452 ...pages=-]{MidTermAssignmentwith8Facts.pdf}
+                                                   <./Img/Fact8_CrossCorr_r_r2.pdf> <./Img/Fact8.pdf> <./Img/Fact_8_3AMZN_.pdf>]
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 1>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page1 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page1 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 1>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page1 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page1 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 1>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page1 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page1 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [10
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=890, page=2, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=942, page=2, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 2>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page2 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page2 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 2>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page2 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page2 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 2>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page2 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page2 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [11
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=903, page=3, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=954, page=3, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 3>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page3 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page3 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 3>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page3 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page3 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 3>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page3 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page3 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [12
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=909, page=4, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=960, page=4, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 4>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page4 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page4 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 4>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page4 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page4 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 4>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page4 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page4 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [13
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=916, page=5, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=967, page=5, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 5>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page5 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page5 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 5>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page5 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page5 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 5>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page5 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page5 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [14
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=921, page=6, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=972, page=6, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 6>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page6 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page6 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 6>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page6 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page6 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 6>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page6 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page6 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [15
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=928, page=7, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=979, page=7, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 7>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page7 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page7 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 7>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page7 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page7 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 7>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page7 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page7 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [16
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=933, page=8, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=984, page=8, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 8>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page8 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page8 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 8>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page8 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page8 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 8>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page8 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page8 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [17
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=938, page=9, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=989, page=9, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 9>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page9 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page9 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 9>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page9 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page9 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 9>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page9 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page9 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [18
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=946, page=10, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=997, page=10, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 10>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page10 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page10 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 10>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page10 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page10 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 10>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page10 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page10 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [19
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=953, page=11, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1004, page=11, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 11>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page11 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page11 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 11>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page11 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page11 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 11>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page11 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page11 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [20
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=960, page=12, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1011, page=12, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 12>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page12 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page12 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 12>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page12 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page12 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 12>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page12 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page12 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [21
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=967, page=13, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1018, page=13, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 13>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page13 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page13 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 13>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page13 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page13 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 13>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page13 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page13 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [22
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=974, page=14, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1025, page=14, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 14>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page14 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page14 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 14>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page14 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page14 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 14>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page14 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page14 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [23
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=981, page=15, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1032, page=15, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 15>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page15 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page15 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 15>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page15 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page15 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 15>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page15 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page15 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [24
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=989, page=16, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1040, page=16, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 16>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page16 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page16 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 16>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page16 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page16 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 16>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page16 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page16 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [25
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=996, page=17, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1047, page=17, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 17>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page17 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page17 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 17>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page17 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page17 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 17>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page17 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page17 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [26
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1003, page=18, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1054, page=18, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 18>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page18 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page18 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 18>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page18 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page18 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 18>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page18 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page18 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [27
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1008, page=19, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1059, page=19, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 19>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page19 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page19 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 19>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page19 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page19 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 19>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page19 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page19 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [28
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1013, page=20, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1064, page=20, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 20>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page20 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page20 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 20>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page20 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page20 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 20>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page20 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page20 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [29
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1020, page=21, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1071, page=21, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 21>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page21 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page21 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 21>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page21 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page21 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 21>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page21 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page21 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [30
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1026, page=22, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1077, page=22, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 22>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page22 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page22 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 22>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page22 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page22 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 22>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page22 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page22 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [31
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1033, page=23, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1084, page=23, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 23>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page23 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page23 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 23>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page23 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page23 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 23>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page23 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page23 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [32
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1038, page=24, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1089, page=24, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 24>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page24 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page24 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 24>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page24 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page24 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 24>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page24 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page24 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [33
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1045, page=25, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1096, page=25, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 25>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page25 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page25 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 25>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page25 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page25 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 25>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page25 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page25 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [34
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1050, page=26, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1101, page=26, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 26>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page26 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page26 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 26>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page26 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page26 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 26>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page26 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page26 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [35
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1057, page=27, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1108, page=27, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 27>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page27 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page27 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 27>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page27 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page27 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 27>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page27 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page27 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [36
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1065, page=28, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1116, page=28, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 28>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page28 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page28 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 28>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page28 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page28 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 28>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page28 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page28 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [37
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1077, page=29, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1128, page=29, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 29>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page29 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page29 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 29>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page29 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page29 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 29>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page29 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page29 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [38
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1082, page=30, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1134, page=30, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 30>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page30 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page30 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 30>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page30 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page30 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 30>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page30 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page30 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [39
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1089, page=31, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1141, page=31, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 31>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page31 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page31 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 31>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page31 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page31 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 31>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page31 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page31 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [40
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1094, page=32, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1146, page=32, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 32>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page32 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page32 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 32>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page32 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page32 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 32>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page32 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page32 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [41
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1101, page=33, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1153, page=33, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 33>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page33 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page33 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 33>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page33 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page33 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 33>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page33 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page33 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [42
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1108, page=34, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1159, page=34, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 34>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page34 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page34 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 34>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page34 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page34 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 34>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page34 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page34 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [43
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1115, page=35, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1166, page=35, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 35>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page35 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page35 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 35>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page35 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page35 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 35>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page35 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page35 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [44
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1120, page=36, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1171, page=36, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 36>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page36 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page36 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 36>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page36 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page36 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 36>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page36 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page36 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [45
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1127, page=37, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1178, page=37, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 37>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page37 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page37 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 37>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page37 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page37 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 37>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page37 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page37 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [46
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1132, page=38, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1183, page=38, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 38>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page38 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page38 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 38>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page38 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page38 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 38>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page38 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page38 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [47
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1139, page=39, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1190, page=39, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 39>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page39 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page39 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 39>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page39 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page39 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 39>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page39 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page39 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [48
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1145, page=40, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1196, page=40, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 40>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page40 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page40 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 40>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page40 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page40 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 40>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page40 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page40 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [49
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1152, page=41, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1203, page=41, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 41>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page41 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page41 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 41>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page41 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page41 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 41>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page41 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page41 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [50
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1159, page=42, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1210, page=42, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 42>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page42 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page42 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 42>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page42 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page42 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 42>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page42 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page42 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [51
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1166, page=43, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1217, page=43, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 43>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page43 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page43 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 43>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page43 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page43 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 43>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page43 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page43 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [52
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1173, page=44, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1224, page=44, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 44>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page44 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page44 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 44>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page44 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page44 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 44>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page44 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page44 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [53
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1180, page=45, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1231, page=45, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 45>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page45 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page45 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 45>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page45 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page45 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 45>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page45 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page45 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [54
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1188, page=46, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1239, page=46, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 46>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page46 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page46 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 46>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page46 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page46 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 46>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page46 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page46 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [55
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1195, page=47, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1246, page=47, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 47>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page47 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page47 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 47>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page47 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page47 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 47>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page47 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page47 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [56
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1202, page=48, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1253, page=48, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 48>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page48 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page48 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 48>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page48 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page48 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 48>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page48 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page48 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [57
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1216, page=49, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1267, page=49, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 49>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page49 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page49 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 49>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page49 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page49 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 49>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page49 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page49 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [58
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1223, page=50, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1274, page=50, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 50>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page50 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page50 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 50>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page50 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page50 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 50>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page50 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page50 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [59
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1230, page=51, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1281, page=51, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 51>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page51 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page51 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 51>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page51 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page51 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 51>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page51 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page51 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [60
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1238, page=52, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1289, page=52, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 52>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page52 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page52 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 52>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page52 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page52 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 52>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page52 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page52 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [61
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1243, page=53, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1294, page=53, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 53>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page53 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page53 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 53>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page53 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page53 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 53>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page53 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page53 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [62
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1250, page=54, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1301, page=54, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 54>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page54 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page54 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 54>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page54 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page54 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 54>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page54 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page54 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [63
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1255, page=55, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1306, page=55, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 55>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page55 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page55 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 55>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page55 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page55 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 55>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page55 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page55 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [64
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1260, page=56, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1311, page=56, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 56>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page56 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page56 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 56>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page56 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page56 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 56>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page56 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page56 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [65
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1265, page=57, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1316, page=57, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 57>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page57 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page57 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 57>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page57 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page57 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 57>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page57 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page57 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [66
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1271, page=58, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1322, page=58, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 58>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page58 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page58 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 58>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page58 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page58 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 58>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page58 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page58 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [67
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1276, page=59, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1327, page=59, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 59>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page59 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page59 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 59>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page59 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page59 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 59>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page59 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page59 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [68
 
  <./MidTermAssignmentwith8Facts.pdf>]
-<MidTermAssignmentwith8Facts.pdf, id=1281, page=60, 614.295pt x 794.97pt>
+<MidTermAssignmentwith8Facts.pdf, id=1332, page=60, 614.295pt x 794.97pt>
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 60>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page60 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page60 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 60>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page60 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page60 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: MidTermAssignmentwith8Facts.pdf Graphic file (type pdf)
 <use MidTermAssignmentwith8Facts.pdf, page 60>
-Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page60 used on input line 419.
+Package pdftex.def Info: MidTermAssignmentwith8Facts.pdf , page60 used on input line 452.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
  [69
 
@@ -1625,21 +1642,21 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `assignment.out' has not changed.
-(rerunfilecheck)             Checksum: 2BA5A85E9EFA4A59EF36B7513202E0AA;3397.
+(rerunfilecheck)             Checksum: 19C7076D2CD07909F22199E181A23DC9;3513.
  ) 
 Here is how much of TeX's memory you used:
- 13035 strings out of 474116
- 209036 string characters out of 5743682
- 1940187 words of memory out of 5000000
- 35106 multiletter control sequences out of 15000+600000
+ 13054 strings out of 474116
+ 209535 string characters out of 5743682
+ 1943187 words of memory out of 5000000
+ 35119 multiletter control sequences out of 15000+600000
  564157 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,17n,79p,801b,580s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on assignment.pdf (70 pages, 2783196 bytes).
+Output written on assignment.pdf (70 pages, 2800852 bytes).
 PDF statistics:
- 1371 PDF objects out of 1440 (max. 8388607)
- 591 compressed objects within 6 object streams
- 115 named destinations out of 1000 (max. 500000)
- 559 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1423 PDF objects out of 1440 (max. 8388607)
+ 604 compressed objects within 7 object streams
+ 118 named destinations out of 1000 (max. 500000)
+ 572 words of extra memory for PDF output out of 10000 (max. 10000000)
 

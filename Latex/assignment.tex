@@ -248,7 +248,7 @@ contributing to greater volatility.
     \hspace{0.05\textwidth}
     \begin{minipage}{0.45\textwidth}
         \centering
-        \includegraphics[width=0.8\textwidth]{Img/Fact3_2_rollskew.pdf}
+        \includegraphics[width=0.7\textwidth]{Img/Fact3_2_rollskew.pdf}
         \caption{\textbf{Rolling skewness} of AMZN stock. 
         Sample: \textbf{01-21-1999} to \textbf{10-16-2024}. The \textcolor{red}{red bands} corresponds to the limit of acceptance, the blue line correspond to the rolling skewness with T=252}
         \label{fig:Rolling_skewness}
@@ -260,6 +260,8 @@ This does not confirm stylized fact 3, as it is not very common; however, it ind
 Consequently, Amazon investors tend to experience steeper upturns than downturns, and they react more positively to good news than they react negatively to bad news.
 Looking at the rolling skewness of simple returns in Figure~\ref{fig:Rolling_skewness}, we can clearly see that the skewness (calculated over a 252-day interval) 
 varies significantly depending on the interval, and has been very negative at times (e.g., December 2004) but is generally positive."
+
+\subsection{Heavy tails}
 \noindent As showcased in the Table~\ref{tab:skewness_kurtosis}, there is a large excess kurtosis
 
 \begin{figure}[H]
@@ -319,26 +321,53 @@ Skewness is thus used as a measure of asymmetry of the distribution \( f_X(x) \)
 So the test is respected and so for the Gaussianity.
 \subsection{Returns are not autocorrelated}
 
-Stylised fact 6 posits that returns are not autocorrelated. 
-Autocorrelation in a weakly stationary process measures the correlation between values of the process at different time points. 
-To assess the significance of autocorrelations, we apply the \textbf{Box-Pierce (BP)} test or the \textbf{Ljung-Box (LB)} test, 
-where the null hypothesis indicates that all autocorrelations are equal to 0, compared with the alternative analysis where it differs from 0.
+Stylized fact 6 posits that returns are not autocorrelated. Autocorrelation in a weakly stationary process measures the correlation between values of the process at different time points.
+
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.9\textwidth]{Img/Fact6_ACFLogReturns.pdf}
+    \caption{\textbf{Empirical Autocorrelation (ACF)} of $r_t$ , the daily, weekly and monthly log-return from the “adjusted closing” of AMAZON from Yahoo Finance.
+    the autocorrelation of order 0 is not reported to have a better graphical representation
+    of the smaller autocorrelations of order k. Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.
+    }
+    \label{fig:ACFlogreturn}
+\end{figure}
+
+
+We will now test if the autocorrelations are 0, i.e. they are insignificant, through 2 Q-tests:
+the Box-Pierce test and the Ljung-Box test.
 
 \begin{table}[H]
 
     \centering
-    \input{LB_BP.tex}  
-    \caption{Ljung-Box and Box-Pierce daily}
-    \label{tab:LB_BP}
+    \input{LB_BP_daily.tex}  
+    \caption{Empirical Autocorrelation (ACF), ACF “diameter” ($1.96 * \sqrt{\frac{1}{T}}$), Box-Pierce test and Ljung-Box test:statistics and p-values. Data : the daily log-returns of Amazon stock from \textbf{01-21-1999} to \textbf{10-16-2024 (source : Yahoo Finance)}}
+    \label{tab:LB_BPd}
 \end{table}
-In Table~\ref{tab:LB_BP}, we observe that for each lag (1, 5, 15 and 25), the p-values for both the \textbf{Ljung-Box (L-B pval)} and \textbf{Box-Pierce} ($B-P pval$) tests exceed the \textbf{$0.048$ threshold}. This indicates that there is insufficient statistical evidence to reject the null hypothesis at each lag. Consequently, this suggests that the returns are not significantly autocorrelated across these time lags.
+\begin{table}[H]
+
+    \centering
+    \input{LB_BP_monthly.tex}  
+    \caption{Empirical Autocorrelation (ACF), ACF “diameter” ($1.96 * \sqrt{\frac{1}{T}}$ ), Box-Pierce test and Ljung-Box test:statistics and p-values. Data : the monthly log-returns of Amazon stock from \textbf{01-21-1999} to \textbf{10-16-2024 (source : Yahoo Finance)}}
+    \label{tab:LB_BPm}
+\end{table}
+
+
+Daily returns : ACF are significantly different from 0 (ACF $\geq$ACF diameter)
+Monthly returns :  ACF are NOT significantly different from 0 (ACF $\leq$ ACF diameter)
+
+\noindent For daily returns, the BP test shows very small but statistically significant autocorrelations, indicating weak dependencies that are practically negligible.
+
+\noindent For monthly returns, the BP test yields high p-values, confirming no significant autocorrelation, which aligns with the idea that returns are not autocorrelated over time.
+
 \subsection{Volatility clustering and long range dependence of squared returns}
 
 Volatility clustering is a phenomenon where periods of high market volatility are often followed by high volatility, and vice versa. To capture and analyze this phenomenon, financial models such as ARCH (Autoregressive Conditional Heteroskedasticity) and GARCH are commonly used. We can easily perceive it on the graph below, (from december 2001 to december 2004) phase of low volatility.
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.5\textwidth]{Img/Fact7_AMZN_rolling_stdev.pdf}
+    \includegraphics[width=0.4\textwidth]{Img/Fact7_AMZN_rolling_stdev.pdf}
     \caption{Rolling standard deviation from the “adjusted closing” of AMZN. Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.}
     \label{fig:Rolling_std_dev_1}
 \end{figure}
@@ -407,6 +436,10 @@ This effect is particularly pronounced during the 2008 financial crisis when vol
 However, this correlation appears less evident during the dot-com bubble in the early 2000s, as Amazon maintained strong sales during that period. 
 Nonetheless, the chart reinforces the negative correlation between Amazon's returns and volatility, 
 consistent with the findings from Figure~\ref{fig:Rolling_std_dev_1}.
+
+\noindent Figure~\ref{fig:Rolling_std_dev} illustrates the relationship between Amazon's daily log returns and changes in the VIX over the period from January 21, 1999, to October 16, 2024. Each blue point represents a specific day, capturing the joint movement of Amazon's log returns and VIX changes. This scatter plot is consistent with the findings from Figure 11, which highlight a negative correlation between returns and volatility. The clustering of volatility around the OLS regression line further supports the presence of a correlation between Amazon's returns and its volatility.
+
+
 \appendix
 %\section{To go further, CAPM pricing model}
 \section{References}
