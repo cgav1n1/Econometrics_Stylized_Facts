@@ -18,4 +18,4 @@
 \contentsline {subsection}{\numberline {4.6}Volatility clustering and long range dependence of squared returns}{7}{subsection.4.6}%
 \contentsline {subsection}{\numberline {4.7}Leverage effect}{8}{subsection.4.7}%
 \contentsline {section}{\numberline {A}References}{9}{appendix.A}%
-\contentsline {section}{\numberline {B}python code}{9}{appendix.B}%
+\contentsline {section}{\numberline {B}Python code}{9}{appendix.B}%
