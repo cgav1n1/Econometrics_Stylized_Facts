@@ -81,7 +81,7 @@ The data printed here is the preview of the Amazon stock extraction from yahoo f
 \begin{table}[h!]
     \centering
     \input{table.tex}  
-    \caption{Preview of Amazon Stock Data from Yahoo Finance}
+    \caption{Preview of Amazon Stock Data (5 first datas) from "AMZN" in Yahoo Finance}
     \label{tab:amazon_stock_preview}
 \end{table}
 
@@ -98,7 +98,7 @@ By visualizing the dates of these gaps, we can easily detect any significant int
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.8\textwidth]{Img/MissingDates(2010_to_2011).pdf}
-    \caption{Missing Dates in Full Date Range (2010 to 2011)}
+    \caption{Missing Dates in a partial date range (\textbf{01-01-2010} to \textbf{01-01-2011})}
     \label{fig:missing_dates}
 \end{figure}
 
@@ -117,7 +117,8 @@ With the accuracy and the reliability of our dataset confirmed, we begin by plot
 \begin{figure}[H]
     \centering
     \includegraphics[width=\textwidth]{Img/prices_time.pdf}
-    \caption{Prices over time by frequency}
+    \caption{Prices over time $P_t$  by frequency daily, weekly, monthly and annual the AMZN stock.
+    Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.}
     \label{fig:prices_time}
 \end{figure}
 
@@ -130,7 +131,8 @@ as well as daily returns and their logarithmic equivalents.
 \begin{figure}[H]
     \centering
     \includegraphics[width=\textwidth]{Img/log_returns.pdf}
-    \caption{Prices, returns and log returns}
+    \caption{Prices $P_t$, returns $R_t$ and log returns $r_t$ of the AMZN stock.
+    Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.}
     \label{fig:log_returns}
 \end{figure}
 
@@ -141,7 +143,8 @@ To complete the analysis of daily price data, we also plot the daily squared ret
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.8\textwidth]{Img/squared_log_returns.pdf}
-    \caption{Squared daily returns and daily log returns}
+    \caption{Squared daily returns $R_t^2$ and daily squared log returns $r_t^2$ of the AMZN stock.
+    Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.}
     \label{fig:squared_logreturns}
 \end{figure}
 
@@ -158,7 +161,8 @@ To complete the analysis of daily price data, we also plot the daily squared ret
 \begin{table}[H]
     \centering
     \input{8stylized.tex}  
-    \caption{Summary statistics for the amazon stock}
+    \caption{Summary statistics for the AMZN stock.
+    Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.}
     \label{tab:Stylized_facts_preview}
 \end{table}
 
@@ -173,7 +177,8 @@ the prices is the comparison of \( p_t \) vs \( p_{t-1} \).
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.5\textwidth]{Img/Laggedlog(p_t-1).pdf}
-    \caption{Comparison of \( \log(p_t) \) vs \( \log(p_{t-1}) \)}
+    \caption{Comparison of \( \log(p_t) \) vs \( \log(p_{t-1}) \) of the AMZN stock.
+    Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.}
     \label{fig:LogptVSLogpt-1}
 \end{figure}
 
@@ -186,7 +191,9 @@ relationship, indicating that Amazon's prices at time \( t \) are highly depende
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.8\textwidth]{Img/Autocorrel_daily_monthly.pdf}
-    \caption{Autocorrelations of daily and monthly Prices (1999-2024)}
+    \caption{Autocorrelations of daily and monthly prices of the AMZN stock.
+    Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.}
+
     \label{fig:Autocorrelations_daily_monthly}
 \end{figure}
 
@@ -197,7 +204,7 @@ Also, the \textbf{slowly decaying ACF} is often a symptom of non stationarity.
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.5\textwidth]{Img/Daily_Log_Returns.pdf}
-    \caption{Daily Log-returns $r_t := p_t - p_{t-1}$: of the AMAZON stock.
+    \caption{Daily Log-returns $r_t := p_t - p_{t-1}$ of the AMZN stock.
     Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.}
     \label{fig:Daily_log_returns}
 \end{figure}
@@ -214,8 +221,6 @@ Additionally, as a relatively new and fast-growing company, Amazon’s stock lik
 contributing to greater volatility.
 
 \subsection{Asymmetry}
-TODO
-\textbf{Stylized Fact 3: The distribution of returns is asymmetric and often negatively skewed}, reflecting the fact that the downturns of financial markets are often much steeper than the recoveries. Investors tend to react more strongly to negative news than to positive news.
 
 \begin{figure}[H]
     \centering
@@ -265,14 +270,17 @@ The QQ-plot provide graphical evidence that the tails of the daily returns distr
 \subsection{Gaussianity}
 \subsubsection{High frequency non-Gaussianity}
 
-\noindent As the result in Table~\ref{tab:Stylized_facts_preview} 
-the skewness is positive for daily and monthly data \cite{Skewness} TODO add an article about amzn skewness.
-The 3\textsuperscript{rd} central moment is defined as
+The aggregate gaussianity, states that lower frequency returns (monthly) tend to be Gaussian (symmetric about the mean) even if higher frequency returns (daily) are not. 
+To test this stylized fact we perform a Jarge-Bera test. The result is in Table~\ref{tab:Stylized_facts_preview}. \\
+
+\noindent The 3\textsuperscript{rd} central moment is defined as
 $\mu_3 := E((X - m_1)^3).$ The skewness of \( r_t \) is defined as:
 \[
 \text{Skew}(r_t) := E \left[ \left( \frac{X - m_1}{\sigma} \right)^3 \right] = \frac{\mu_3}{\sigma^3} = \frac{\mu_3}{\mu_2^{3/2}}.
 \]
-In this case, and as emphasized in the $3^{rd}$ stylized fact, \( \text{Skew}(r_t) >0 \), large realizations of \( X \) are more often larger
+
+\noindent As the result in Table~\ref{tab:Stylized_facts_preview} 
+the skewness is positive for daily and monthly data, \( \text{Skew}(r_t) >0 \), large realizations of \( X \) are more often larger
 than the mean \( \mu \). 
 Skewness is thus used as a measure of asymmetry of the distribution \( f_X(x) \). Therefore:
  
@@ -360,7 +368,7 @@ with their impact being more noticeable at shorter frequencies (daily, weekly) t
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.5\textwidth]{Img/Fact8_2.pdf}
+    \includegraphics[width=0.5\textwidth]{Img/Fact_8_3AMZN_.pdf}
     \caption{Rolling standard deviation from the “adjusted closing” of AMZN. Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.}
     \label{fig:Rolling_std_dev}
 \end{figure}

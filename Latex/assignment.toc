@@ -11,7 +11,7 @@
 \contentsline {subsubsection}{\numberline {4.0.1}Summary statistics}{1}{subsubsection.4.0.1}%
 \contentsline {subsection}{\numberline {4.1}Prices are non-stationary}{1}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Returns are stationary}{2}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Asymmetry}{2}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.3}Asymmetry}{3}{subsection.4.3}%
 \contentsline {subsection}{\numberline {4.4}Heavy tails}{3}{subsection.4.4}%
 \contentsline {subsection}{\numberline {4.5}Gaussianity}{4}{subsection.4.5}%
 \contentsline {subsubsection}{\numberline {4.5.1}High frequency non-Gaussianity}{4}{subsubsection.4.5.1}%
