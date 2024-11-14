@@ -11,7 +11,7 @@
 \usepackage{hyperref}% to put links
 \usepackage{float} %to place correctly pictures
 \usepackage{cite} %for better citations
-
+\usepackage{pdfpages}
 \hypersetup{
     colorlinks=true,
     linkcolor=blue,
@@ -355,51 +355,56 @@ with their impact being more noticeable at shorter frequencies (daily, weekly) t
 
 \subsection{Leverage effect}
 
+The leverage effect highlights the negative correlation between an asset's returns and its volatility. 
+Figure~\ref{fig:Rolling_std_dev_2} illustrates this phenomenon through cross-correlation values over time. 
+The graph clearly shows a strong cross-correlation between the returns $r_{t+j}$ and the squared returns $r_t^2$. 
+This is evidenced by most values exceeding the green dashed line, which marks the threshold for the rejection region in the significance test. 
+Notably, the majority of values after 2000 are negative, indicating a negative correlation between future returns $R_{t+j}$ and volatility $R^2$.
+
+
+
+
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.5\textwidth]{Img/Fact8_CrossCorr_r_r2.pdf}
-    \caption{Rolling standard deviation from the “adjusted closing” of AMZN. Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.}
+    \caption{\textbf{Empirical cross correlation} of daily lagged log-returns and squared daily returns $corr(r_{t+j},r_t^2)$ of AMZN. Sample: \textbf{01-21-1999} to \textbf{10-16-2024}. 
+    The green dotted bars are the (asymptotic) bounds for the rejection region a significance test of each cross-correlation. A line above or below the green dashed line represent a significant cross-correlation.}
     \label{fig:Rolling_std_dev_2}
 \end{figure}
 
 \begin{figure}[H]
+    \begin{minipage}{0.46\textwidth}
+        \centering
+        \includegraphics[width=1\textwidth]{Img/Fact8.pdf}
+        \caption{Time series plot of \textcolor{blue}{AMZN} and \textcolor{orange}{VIX}. Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.}
+        \label{fig:Rolling_std_dev_3}
+    \end{minipage}
     \centering
-    \includegraphics[width=0.5\textwidth]{Img/Fact8.pdf}
-    \caption{Rolling standard deviation from the “adjusted closing” of AMZN. Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.}
-    \label{fig:Rolling_std_dev_3}
+    \hspace{0.01\textwidth}
+    \begin{minipage}{0.46\textwidth}
+        \centering
+        \includegraphics[width=0.8\textwidth]{Img/Fact_8_3AMZN_.pdf}
+        \caption{Scatter plot of daily AMZN log-returns against the daily changes of VIX for the same day $t$. 
+        Fitted OLS regression line is represented in (\textcolor{red}{red}).
+        Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.}
+        \label{fig:Rolling_std_dev}
+    \end{minipage}
 \end{figure}
-
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=0.5\textwidth]{Img/Fact_8_3AMZN_.pdf}
-    \caption{Rolling standard deviation from the “adjusted closing” of AMZN. Sample: \textbf{01-21-1999} to \textbf{10-16-2024}.}
-    \label{fig:Rolling_std_dev}
-\end{figure}
-
+\noindent The comparison between Amazon's stock and the VIX (Volatility Index) in Figure 15 reveals a negative correlation between the stock and the index. 
+This effect is particularly pronounced during the 2008 financial crisis when volatility surged while Amazon's stock experienced a slight decline. 
+However, this correlation appears less evident during the dot-com bubble in the early 2000s, as Amazon maintained strong sales during that period. 
+Nonetheless, the chart reinforces the negative correlation between Amazon's returns and volatility, 
+consistent with the findings from Figure~\ref{fig:Rolling_std_dev_1}.
 \appendix
-
-\lstset{
-    language=Python,
-    backgroundcolor=\color{codebackground},   % Background color
-    basicstyle=\ttfamily\footnotesize,        % Font and size
-    breaklines=true,                          % Automatic line breaking
-    frame=single,                             % Frame around code
-    numbers=left,                             % Line numbers on the left
-    numberstyle=\tiny\color{gray},            % Line number style
-    keywordstyle=\color{codeblue}\bfseries,   % Keyword color
-    commentstyle=\color{codegreen}\itshape,   % Comment color
-    stringstyle=\color{codepurple},           % String color
-    showstringspaces=false,                   % Hide string spaces
-    captionpos=b,                             % Caption position: bottom
-    tabsize=4                                 % Tab width
-}
-
-\input{code_appendix.tex}  % Include the code appendix
-
-\section{To go further, CAPM pricing model}
-
+%\section{To go further, CAPM pricing model}
+\section{References}
 \bibliographystyle{plain}
 \bibliography{bibliography} % Do not include the .bib extension
 
+
+\section{python code}
+Notebook starting next page
+\includepdf[pages=-]{MidTermAssignmentwith8Facts.pdf}
+%\input{MidTermAssignmentwith8Facts.tex}
 
 \end{document}

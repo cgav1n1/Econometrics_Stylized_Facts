@@ -18,5 +18,5 @@
 \contentsline {subsection}{\numberline {4.6}Returns are not autocorrelated}{7}{subsection.4.6}%
 \contentsline {subsection}{\numberline {4.7}Volatility clustering and long range dependence of squared returns}{7}{subsection.4.7}%
 \contentsline {subsection}{\numberline {4.8}Leverage effect}{8}{subsection.4.8}%
-\contentsline {section}{\numberline {A}Appendix: Python Code}{9}{appendix.A}%
-\contentsline {section}{\numberline {B}To go further, CAPM pricing model}{9}{appendix.B}%
+\contentsline {section}{\numberline {A}References}{9}{appendix.A}%
+\contentsline {section}{\numberline {B}python code}{9}{appendix.B}%
