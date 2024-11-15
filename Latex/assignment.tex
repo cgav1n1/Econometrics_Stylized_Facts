@@ -284,6 +284,9 @@ fall below the blue line. This indicates that the lower quantiles of the empiric
     Sample: \textbf{01-21-1999} to \textbf{10-16-2024}. \textbf{QQ plot of Sample standardized quantiles} (0 mean and unit variance) \textbf{of daily log-returns against quantiles of standardized} (0 mean and unit variance) \textbf{Student-t distributions} with $\nu = 10$, 5, and 3 degrees of freedom.}
     \label{fig:Hstogram_QQ_plot_T_student}
 \end{figure}
+
+\noindent As $\nu$ decreases, we compare our sample to a t-distribution with a lower $\nu$, which corresponds to heavier tails. This means that as $\nu$ decreases, the quantiles of our sample increasingly align with those of the Student-t distribution, causing the blue line to deviate in a lesser manner from the red line. This alignment suggests that our sample is better represented by a distribution with heavier tails.
+
 \subsection{Gaussianity}
 \subsubsection{High frequency non-Gaussianity}
 
